@@ -1,0 +1,1023 @@
+year,make,model,engine,product_line,part_number,engine_size,position,vehicle_options,application_notes
+1969,Alfa Romeo,Berlina,All Engines,SEMI-LOADED CALIPER,SC1107,,Front Left,,
+1969,Alfa Romeo,Berlina,All Engines,SEMI-LOADED CALIPER,SC1108,,Front Right,,
+1969,Alfa Romeo,Berlina,All Engines,SEMI-LOADED CALIPER,SC1111,,Rear Left,,
+1969,Alfa Romeo,Berlina,All Engines,SEMI-LOADED CALIPER,SC1112,,Rear Right,,
+1969,Alfa Romeo,Berlina,All Engines,BARE CALIPER,C1107,,Front Left,,
+1969,Alfa Romeo,Berlina,All Engines,BARE CALIPER,C1108,,Front Right,,
+1969,Alfa Romeo,Berlina,All Engines,BARE CALIPER,C1111,,Rear Left,,
+1969,Alfa Romeo,Berlina,All Engines,BARE CALIPER,C1112,,Rear Right,,
+1969,Alfa Romeo,GT Veloce,All Engines,SEMI-LOADED CALIPER,SC1107,,Front Left,,
+1969,Alfa Romeo,GT Veloce,All Engines,SEMI-LOADED CALIPER,SC1108,,Front Right,,
+1969,Alfa Romeo,GT Veloce,All Engines,SEMI-LOADED CALIPER,SC1111,,Rear Left,,
+1969,Alfa Romeo,GT Veloce,All Engines,SEMI-LOADED CALIPER,SC1112,,Rear Right,,
+1969,Alfa Romeo,GT Veloce,All Engines,BARE CALIPER,C1107,,Front Left,,
+1969,Alfa Romeo,GT Veloce,All Engines,BARE CALIPER,C1108,,Front Right,,
+1969,Alfa Romeo,GT Veloce,All Engines,BARE CALIPER,C1111,,Rear Left,,
+1969,Alfa Romeo,GT Veloce,All Engines,BARE CALIPER,C1112,,Rear Right,,
+1969,Alfa Romeo,Spider,All Engines,SEMI-LOADED CALIPER,SC1107,,Front Left,,
+1969,Alfa Romeo,Spider,All Engines,SEMI-LOADED CALIPER,SC1108,,Front Right,,
+1969,Alfa Romeo,Spider,All Engines,SEMI-LOADED CALIPER,SC1111,,Rear Left,,
+1969,Alfa Romeo,Spider,All Engines,SEMI-LOADED CALIPER,SC1112,,Rear Right,,
+1969,Alfa Romeo,Spider,All Engines,BARE CALIPER,C1107,,Front Left,,
+1969,Alfa Romeo,Spider,All Engines,BARE CALIPER,C1108,,Front Right,,
+1969,Alfa Romeo,Spider,All Engines,BARE CALIPER,C1111,,Rear Left,,
+1969,Alfa Romeo,Spider,All Engines,BARE CALIPER,C1112,,Rear Right,,
+1969,Buick,GS 350,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Buick,GS 350,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Buick,GS 350,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Buick,GS 350,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Buick,GS 400,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Buick,GS 400,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Buick,GS 400,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Buick,GS 400,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Buick,Skylark,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Buick,Skylark,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Buick,Skylark,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Buick,Skylark,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Buick,Special,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Buick,Special,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Buick,Special,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Buick,Special,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Buick,Sportwagon,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Buick,Sportwagon,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Buick,Sportwagon,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Buick,Sportwagon,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Cadillac,Calais,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1969,Cadillac,Calais,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1969,Cadillac,Calais,All Engines,BARE CALIPER,C0133,,Front Left,,
+1969,Cadillac,Calais,All Engines,BARE CALIPER,C0134,,Front Right,,
+1969,Cadillac,Commercial Chassis,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1969,Cadillac,Commercial Chassis,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1969,Cadillac,Commercial Chassis,All Engines,BARE CALIPER,C0133,,Front Left,,
+1969,Cadillac,Commercial Chassis,All Engines,BARE CALIPER,C0134,,Front Right,,
+1969,Cadillac,DeVille,All Engines,SEMI-LOADED CALIPER,SC0115,,Front Left,,
+1969,Cadillac,DeVille,All Engines,SEMI-LOADED CALIPER,SC0116,,Front Right,,
+1969,Cadillac,DeVille,All Engines,BARE CALIPER,C0115,,Front Left,,
+1969,Cadillac,DeVille,All Engines,BARE CALIPER,C0116,,Front Right,,
+1969,Cadillac,Eldorado,All Engines,SEMI-LOADED CALIPER,SC0109,,Front Left,,
+1969,Cadillac,Eldorado,All Engines,SEMI-LOADED CALIPER,SC0110,,Front Right,,
+1969,Cadillac,Eldorado,All Engines,BARE CALIPER,C0109,,Front Left,,
+1969,Cadillac,Eldorado,All Engines,BARE CALIPER,C0110,,Front Right,,
+1969,Cadillac,Fleetwood,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1969,Cadillac,Fleetwood,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1969,Cadillac,Fleetwood,All Engines,BARE CALIPER,C0133,,Front Left,,
+1969,Cadillac,Fleetwood,All Engines,BARE CALIPER,C0134,,Front Right,,
+1969,Chevrolet,Bel Air,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Bel Air,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Bel Air,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Bel Air,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Biscayne,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Biscayne,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Biscayne,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Biscayne,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Brookwood,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Brookwood,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Brookwood,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Brookwood,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0113,,Front Left,,
+1969,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0114,,Front Right,,
+1969,Chevrolet,Camaro,All Engines,BARE CALIPER,C0113,,Front Left,,
+1969,Chevrolet,Camaro,All Engines,BARE CALIPER,C0114,,Front Right,,
+1969,Chevrolet,Caprice,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Caprice,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Caprice,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Caprice,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Chevelle,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Chevrolet,Chevelle,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Chevrolet,Chevelle,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Chevrolet,Chevelle,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909,,Front Left,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910,,Front Right,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909S,,Front Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910S,,Front Right,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911,,Rear Left,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912,,Rear Right,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911S,,Rear Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912S,,Rear Right,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0909S,,Front Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0910S,,Front Right,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0911S,,Rear Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0912S,,Rear Right,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909,,Front Left,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910,,Front Right,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909S,,Front Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910S,,Front Right,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911,,Rear Left,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912,,Rear Right,,Regular Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911S,,Rear Left,,Stainless Steel Sleeve
+1969,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912S,,Rear Right,,Stainless Steel Sleeve
+1969,Chevrolet,El Camino,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Chevrolet,El Camino,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Chevrolet,El Camino,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Chevrolet,El Camino,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Chevrolet,Estate,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,
+1969,Chevrolet,Estate,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,
+1969,Chevrolet,Estate,All Engines,BARE CALIPER,C0105,,Front Left,,
+1969,Chevrolet,Estate,All Engines,BARE CALIPER,C0106,,Front Right,,
+1969,Chevrolet,Impala,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Impala,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Impala,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Impala,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Kingswood,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Kingswood,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Kingswood,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Kingswood,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0113,,Front Left,,
+1969,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0114,,Front Right,,
+1969,Chevrolet,Nova,All Engines,BARE CALIPER,C0113,,Front Left,,
+1969,Chevrolet,Nova,All Engines,BARE CALIPER,C0114,,Front Right,,
+1969,Chevrolet,Townsman,All Engines,SEMI-LOADED CALIPER,SC0105,,Front Left,,1 Piston
+1969,Chevrolet,Townsman,All Engines,SEMI-LOADED CALIPER,SC0106,,Front Right,,1 Piston
+1969,Chevrolet,Townsman,All Engines,BARE CALIPER,C0105,,Front Left,,1 Piston
+1969,Chevrolet,Townsman,All Engines,BARE CALIPER,C0106,,Front Right,,1 Piston
+1969,Chrysler,300,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Chrysler,300,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Chrysler,300,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Chrysler,300,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Chrysler,Imperial,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Chrysler,Imperial,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Chrysler,Imperial,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Chrysler,Imperial,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Chrysler,New Yorker,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Chrysler,New Yorker,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Chrysler,New Yorker,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Chrysler,New Yorker,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Chrysler,Newport,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Chrysler,Newport,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Chrysler,Newport,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Chrysler,Newport,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Chrysler,Town & Country,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Chrysler,Town & Country,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Chrysler,Town & Country,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Chrysler,Town & Country,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Dodge,A100,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Dodge,A100,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Dodge,A100,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Dodge,A100,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Dodge,A108 Van,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Dodge,A108 Van,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Dodge,A108 Van,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Dodge,A108 Van,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1969,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1969,Dodge,Dart,All Engines,BARE CALIPER,C2001,,Front Left,,
+1969,Dodge,Dart,All Engines,BARE CALIPER,C2002,,Front Right,,
+1969,Dodge,Monaco,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Dodge,Monaco,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Dodge,Monaco,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Dodge,Monaco,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Dodge,Polara,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Dodge,Polara,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Dodge,Polara,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Dodge,Polara,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Fiat,124,All Engines,SEMI-LOADED CALIPER,SC0832,,Front Left,,
+1969,Fiat,124,All Engines,SEMI-LOADED CALIPER,SC0831,,Front Right,,
+1969,Fiat,124,All Engines,SEMI-LOADED CALIPER,SC0833,,Rear Left,,"If Calipers are mounted in back of the axle, reverse their position."
+1969,Fiat,124,All Engines,SEMI-LOADED CALIPER,SC0834,,Rear Right,,"If Calipers are mounted in back of the axle, reverse their position."
+1969,Fiat,124,All Engines,BARE CALIPER,C0832,,Front Left,,
+1969,Fiat,124,All Engines,BARE CALIPER,C0831,,Front Right,,
+1969,Fiat,124,All Engines,BARE CALIPER,C0833,,Rear Left,,"If Calipers are mounted in back of the axle, reverse their position."
+1969,Fiat,124,All Engines,BARE CALIPER,C0834,,Rear Right,,"If Calipers are mounted in back of the axle, reverse their position."
+1969,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Country Sedan,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Country Sedan,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Country Squire,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Country Squire,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Custom,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Custom,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Custom 500,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Custom 500,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,E-300 Econoline,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1969,Ford,E-300 Econoline,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1969,Ford,E-300 Econoline,All Engines,BARE CALIPER,C3005,,Front Left,,
+1969,Ford,E-300 Econoline,All Engines,BARE CALIPER,C3006,,Front Right,,
+1969,Ford,F-250,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1969,Ford,F-250,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1969,Ford,F-250,All Engines,BARE CALIPER,C3005,,Front Left,,
+1969,Ford,F-250,All Engines,BARE CALIPER,C3006,,Front Right,,
+1969,Ford,F-350,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1969,Ford,F-350,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1969,Ford,F-350,All Engines,BARE CALIPER,C3005,,Front Left,,
+1969,Ford,F-350,All Engines,BARE CALIPER,C3006,,Front Right,,
+1969,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Ford,Fairlane,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Ford,Fairlane,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Ford,Falcon,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Ford,Falcon,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Galaxie 500,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Galaxie 500,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,LTD,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,LTD,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Ford,Mustang,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Ford,Mustang,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Ford,P-100,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1969,Ford,P-100,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1969,Ford,P-100,All Engines,BARE CALIPER,C3005,,Front Left,,
+1969,Ford,P-100,All Engines,BARE CALIPER,C3006,,Front Right,,
+1969,Ford,P-350,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1969,Ford,P-350,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1969,Ford,P-350,All Engines,BARE CALIPER,C3005,,Front Left,,
+1969,Ford,P-350,All Engines,BARE CALIPER,C3006,,Front Right,,
+1969,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Ranch Wagon,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Ranch Wagon,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Ranchero,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Ford,Ranchero,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Ford,Ranchero,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Ford,Ranchero,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Ford,Thunderbird,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Ford,Thunderbird,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Ford,Torino,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Ford,Torino,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Ford,Torino,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Ford,Torino,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1969,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1969,Lincoln,Mark III,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Lincoln,Mark III,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Lincoln,Mark III,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Lincoln,Mark III,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1969,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1969,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1969,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1969,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1969,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1969,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1969,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1969,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1969,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Mercury,Colony Park,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Mercury,Colony Park,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Mercury,Comet,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Mercury,Comet,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Mercury,Cougar,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Mercury,Cougar,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Mercury,Cyclone,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Mercury,Cyclone,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Mercury,Marauder,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Mercury,Marauder,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Mercury,Marquis,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Mercury,Marquis,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,Mercury,Montego,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1969,Mercury,Montego,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1969,Mercury,Montego,All Engines,BARE CALIPER,C0301,,Front Left,,
+1969,Mercury,Montego,All Engines,BARE CALIPER,C0302,,Front Right,,
+1969,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1969,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1969,Mercury,Monterey,All Engines,BARE CALIPER,C0303,,Front Left,,
+1969,Mercury,Monterey,All Engines,BARE CALIPER,C0304,,Front Right,,
+1969,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1969,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1969,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1969,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1969,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1969,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1969,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1969,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1969,Nissan,510,All Engines,SEMI-LOADED CALIPER,SC0501,,Front Left,,
+1969,Nissan,510,All Engines,SEMI-LOADED CALIPER,SC0502,,Front Right,,
+1969,Nissan,510,All Engines,BARE CALIPER,C0501,,Front Left,,
+1969,Nissan,510,All Engines,BARE CALIPER,C0502,,Front Right,,
+1969,Oldsmobile,442,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Oldsmobile,442,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Oldsmobile,442,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Oldsmobile,442,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Oldsmobile,98,All Engines,SEMI-LOADED CALIPER,SC0107,,Front Left,,
+1969,Oldsmobile,98,All Engines,SEMI-LOADED CALIPER,SC0108,,Front Right,,
+1969,Oldsmobile,98,All Engines,BARE CALIPER,C0107,,Front Left,,
+1969,Oldsmobile,98,All Engines,BARE CALIPER,C0108,,Front Right,,
+1969,Oldsmobile,Cutlass,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Oldsmobile,Cutlass,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Oldsmobile,Cutlass,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Oldsmobile,Cutlass,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Oldsmobile,Cutlass Supreme,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Oldsmobile,Cutlass Supreme,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Oldsmobile,Cutlass Supreme,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Oldsmobile,Cutlass Supreme,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Oldsmobile,Delta 88,All Engines,SEMI-LOADED CALIPER,SC0107,,Front Left,,
+1969,Oldsmobile,Delta 88,All Engines,SEMI-LOADED CALIPER,SC0108,,Front Right,,
+1969,Oldsmobile,Delta 88,All Engines,BARE CALIPER,C0107,,Front Left,,
+1969,Oldsmobile,Delta 88,All Engines,BARE CALIPER,C0108,,Front Right,,
+1969,Oldsmobile,F85,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Oldsmobile,F85,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Oldsmobile,F85,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Oldsmobile,F85,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Oldsmobile,Toronado,All Engines,SEMI-LOADED CALIPER,SC0109,,Front Left,,
+1969,Oldsmobile,Toronado,All Engines,SEMI-LOADED CALIPER,SC0110,,Front Right,,
+1969,Oldsmobile,Toronado,All Engines,BARE CALIPER,C0109,,Front Left,,
+1969,Oldsmobile,Toronado,All Engines,BARE CALIPER,C0110,,Front Right,,
+1969,Oldsmobile,Vista Cruiser,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Oldsmobile,Vista Cruiser,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Oldsmobile,Vista Cruiser,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Oldsmobile,Vista Cruiser,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1969,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1969,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1969,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1969,Plymouth,Fury,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Plymouth,Fury,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Plymouth,Fury,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Plymouth,Fury,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Plymouth,Fury I,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Plymouth,Fury I,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Plymouth,Fury I,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Plymouth,Fury I,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Plymouth,Fury II,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Plymouth,Fury II,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Plymouth,Fury II,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Plymouth,Fury II,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Plymouth,Fury III,All Engines,SEMI-LOADED CALIPER,SC0215,,Front Left,,
+1969,Plymouth,Fury III,All Engines,SEMI-LOADED CALIPER,SC0216,,Front Right,,
+1969,Plymouth,Fury III,All Engines,BARE CALIPER,C0215,,Front Left,,
+1969,Plymouth,Fury III,All Engines,BARE CALIPER,C0216,,Front Right,,
+1969,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1969,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1969,Plymouth,Valiant,All Engines,BARE CALIPER,C2001,,Front Left,,
+1969,Plymouth,Valiant,All Engines,BARE CALIPER,C2002,,Front Right,,
+1969,Pontiac,Bonneville,All Engines,SEMI-LOADED CALIPER,SC0103,,Front Left,,
+1969,Pontiac,Bonneville,All Engines,SEMI-LOADED CALIPER,SC0104,,Front Right,,
+1969,Pontiac,Bonneville,All Engines,BARE CALIPER,C0103,,Front Left,,
+1969,Pontiac,Bonneville,All Engines,BARE CALIPER,C0104,,Front Right,,
+1969,Pontiac,Catalina,All Engines,SEMI-LOADED CALIPER,SC0103,,Front Left,,
+1969,Pontiac,Catalina,All Engines,SEMI-LOADED CALIPER,SC0104,,Front Right,,
+1969,Pontiac,Catalina,All Engines,BARE CALIPER,C0103,,Front Left,,
+1969,Pontiac,Catalina,All Engines,BARE CALIPER,C0104,,Front Right,,
+1969,Pontiac,Executive,All Engines,SEMI-LOADED CALIPER,SC0103,,Front Left,,
+1969,Pontiac,Executive,All Engines,SEMI-LOADED CALIPER,SC0104,,Front Right,,
+1969,Pontiac,Executive,All Engines,BARE CALIPER,C0103,,Front Left,,
+1969,Pontiac,Executive,All Engines,BARE CALIPER,C0104,,Front Right,,
+1969,Pontiac,Firebird,All Engines,SEMI-LOADED CALIPER,SC0113,,Front Left,,
+1969,Pontiac,Firebird,All Engines,SEMI-LOADED CALIPER,SC0114,,Front Right,,
+1969,Pontiac,Firebird,All Engines,BARE CALIPER,C0113,,Front Left,,
+1969,Pontiac,Firebird,All Engines,BARE CALIPER,C0114,,Front Right,,
+1969,Pontiac,Grand Prix,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Pontiac,Grand Prix,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Pontiac,Grand Prix,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Pontiac,Grand Prix,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Pontiac,GTO,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Pontiac,GTO,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Pontiac,GTO,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Pontiac,GTO,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Pontiac,Laurentian,All Engines,SEMI-LOADED CALIPER,SC0103,,Front Left,,
+1969,Pontiac,Laurentian,All Engines,SEMI-LOADED CALIPER,SC0104,,Front Right,,
+1969,Pontiac,Laurentian,All Engines,BARE CALIPER,C0103,,Front Left,,
+1969,Pontiac,Laurentian,All Engines,BARE CALIPER,C0104,,Front Right,,
+1969,Pontiac,LeMans,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Pontiac,LeMans,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Pontiac,LeMans,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Pontiac,LeMans,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Pontiac,Parisienne,All Engines,SEMI-LOADED CALIPER,SC0103,,Front Left,,
+1969,Pontiac,Parisienne,All Engines,SEMI-LOADED CALIPER,SC0104,,Front Right,,
+1969,Pontiac,Parisienne,All Engines,BARE CALIPER,C0103,,Front Left,,
+1969,Pontiac,Parisienne,All Engines,BARE CALIPER,C0104,,Front Right,,
+1969,Pontiac,Tempest,All Engines,SEMI-LOADED CALIPER,SC0111,,Front Left,,
+1969,Pontiac,Tempest,All Engines,SEMI-LOADED CALIPER,SC0112,,Front Right,,
+1969,Pontiac,Tempest,All Engines,BARE CALIPER,C0111,,Front Left,,
+1969,Pontiac,Tempest,All Engines,BARE CALIPER,C0112,,Front Right,,
+1969,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0525,,Front Left,,
+1969,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0526,,Front Right,,
+1969,Toyota,Crown,All Engines,BARE CALIPER,C0525,,Front Left,,
+1969,Toyota,Crown,All Engines,BARE CALIPER,C0526,,Front Right,,
+1969,Volkswagen,Transporter,All Engines,SEMI-LOADED CALIPER,SC1767A,,Front Left,,
+1969,Volkswagen,Transporter,All Engines,SEMI-LOADED CALIPER,SC1768A,,Front Right,,
+1969,Volkswagen,Transporter,All Engines,BARE CALIPER,C1767A,,Front Left,,
+1969,Volkswagen,Transporter,All Engines,BARE CALIPER,C1768A,,Front Right,,
+1969,Volvo,142,All Engines,SEMI-LOADED CALIPER,SC7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,SEMI-LOADED CALIPER,SC7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,SEMI-LOADED CALIPER,SC7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,SEMI-LOADED CALIPER,SC7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,BARE CALIPER,C7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,BARE CALIPER,C7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,BARE CALIPER,C7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,142,All Engines,BARE CALIPER,C7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,SEMI-LOADED CALIPER,SC7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,SEMI-LOADED CALIPER,SC7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,SEMI-LOADED CALIPER,SC7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,SEMI-LOADED CALIPER,SC7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,BARE CALIPER,C7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,BARE CALIPER,C7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,BARE CALIPER,C7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,144,All Engines,BARE CALIPER,C7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,SEMI-LOADED CALIPER,SC7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,SEMI-LOADED CALIPER,SC7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,SEMI-LOADED CALIPER,SC7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,SEMI-LOADED CALIPER,SC7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,BARE CALIPER,C7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,BARE CALIPER,C7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,BARE CALIPER,C7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,145,All Engines,BARE CALIPER,C7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,SEMI-LOADED CALIPER,SC7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,SEMI-LOADED CALIPER,SC7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,SEMI-LOADED CALIPER,SC7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,SEMI-LOADED CALIPER,SC7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,BARE CALIPER,C7689,,Front Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,BARE CALIPER,C7690,,Front Right,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,BARE CALIPER,C7691,,Rear Left,,"Girling Type, 3 1/4"" Flange"
+1969,Volvo,1800,All Engines,BARE CALIPER,C7692,,Rear Right,,"Girling Type, 3 1/4"" Flange"
+1968,Cadillac,Calais,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1968,Cadillac,Calais,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1968,Cadillac,Calais,All Engines,BARE CALIPER,C0133,,Front Left,,
+1968,Cadillac,Calais,All Engines,BARE CALIPER,C0134,,Front Right,,
+1968,Cadillac,Commercial Chassis,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1968,Cadillac,Commercial Chassis,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1968,Cadillac,Commercial Chassis,All Engines,BARE CALIPER,C0133,,Front Left,,
+1968,Cadillac,Commercial Chassis,All Engines,BARE CALIPER,C0134,,Front Right,,
+1968,Cadillac,DeVille,All Engines,SEMI-LOADED CALIPER,SC0115,,Front Left,,
+1968,Cadillac,DeVille,All Engines,SEMI-LOADED CALIPER,SC0116,,Front Right,,
+1968,Cadillac,DeVille,All Engines,BARE CALIPER,C0115,,Front Left,,
+1968,Cadillac,DeVille,All Engines,BARE CALIPER,C0116,,Front Right,,
+1968,Cadillac,Fleetwood,All Engines,SEMI-LOADED CALIPER,SC0133,,Front Left,,
+1968,Cadillac,Fleetwood,All Engines,SEMI-LOADED CALIPER,SC0134,,Front Right,,
+1968,Cadillac,Fleetwood,All Engines,BARE CALIPER,C0133,,Front Left,,
+1968,Cadillac,Fleetwood,All Engines,BARE CALIPER,C0134,,Front Right,,
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909,,Front Left,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910,,Front Right,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909S,,Front Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910S,,Front Right,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911,,Rear Left,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912,,Rear Right,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911S,,Rear Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912S,,Rear Right,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0909S,,Front Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0910S,,Front Right,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0911S,,Rear Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0912S,,Rear Right,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909,,Front Left,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910,,Front Right,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909S,,Front Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910S,,Front Right,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911,,Rear Left,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912,,Rear Right,,Regular Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911S,,Rear Left,,Stainless Steel Sleeve
+1968,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912S,,Rear Right,,Stainless Steel Sleeve
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1968,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1968,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1968,Dodge,Dart,All Engines,BARE CALIPER,C2001,,Front Left,,
+1968,Dodge,Dart,All Engines,BARE CALIPER,C2002,,Front Right,,
+1968,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Country Sedan,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Country Sedan,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Country Squire,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Country Squire,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Custom,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Custom,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Custom 500,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Custom 500,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,F-250,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1968,Ford,F-250,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1968,Ford,F-250,All Engines,BARE CALIPER,C3005,,Front Left,,
+1968,Ford,F-250,All Engines,BARE CALIPER,C3006,,Front Right,,
+1968,Ford,F-350,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1968,Ford,F-350,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1968,Ford,F-350,All Engines,BARE CALIPER,C3005,,Front Left,,
+1968,Ford,F-350,All Engines,BARE CALIPER,C3006,,Front Right,,
+1968,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Ford,Fairlane,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Ford,Fairlane,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Ford,Falcon,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Ford,Falcon,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Galaxie 500,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Galaxie 500,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,LTD,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,LTD,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Ford,Mustang,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Ford,Mustang,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Ford,P-100,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1968,Ford,P-100,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1968,Ford,P-100,All Engines,BARE CALIPER,C3005,,Front Left,,
+1968,Ford,P-100,All Engines,BARE CALIPER,C3006,,Front Right,,
+1968,Ford,P-350,All Engines,SEMI-LOADED CALIPER,SC3005,,Front Left,,
+1968,Ford,P-350,All Engines,SEMI-LOADED CALIPER,SC3006,,Front Right,,
+1968,Ford,P-350,All Engines,BARE CALIPER,C3005,,Front Left,,
+1968,Ford,P-350,All Engines,BARE CALIPER,C3006,,Front Right,,
+1968,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Ranch Wagon,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Ranch Wagon,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Ranchero,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Ford,Ranchero,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Ford,Ranchero,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Ford,Ranchero,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Ford,Thunderbird,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Ford,Thunderbird,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Ford,Torino,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Ford,Torino,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Ford,Torino,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Ford,Torino,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1968,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1968,Mercedes-Benz,280S,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1968,Mercedes-Benz,280S,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1968,Mercedes-Benz,280SE,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1968,Mercedes-Benz,280SE,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1968,Mercedes-Benz,280SEL,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1968,Mercedes-Benz,280SEL,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9137,,Rear Left,,
+1968,Mercedes-Benz,280SL,All Engines,SEMI-LOADED CALIPER,SC9138,,Rear Right,,
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9177,,Front Left,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9178,,Front Right,,"ATE Type, CT# 14 PG=48mm"
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9181,,Front Left,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9182,,Front Right,,"Bendix Type, CT# 1457"
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9137,,Rear Left,,
+1968,Mercedes-Benz,280SL,All Engines,BARE CALIPER,C9138,,Rear Right,,
+1968,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Colony Park,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Colony Park,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Mercury,Comet,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Mercury,Comet,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Commuter,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Commuter,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Mercury,Cougar,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Mercury,Cougar,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Mercury,Cyclone,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Mercury,Cyclone,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Marquis,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Marquis,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Montclair,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Montclair,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Mercury,Montego,All Engines,SEMI-LOADED CALIPER,SC0301,,Front Left,,
+1968,Mercury,Montego,All Engines,SEMI-LOADED CALIPER,SC0302,,Front Right,,
+1968,Mercury,Montego,All Engines,BARE CALIPER,C0301,,Front Left,,
+1968,Mercury,Montego,All Engines,BARE CALIPER,C0302,,Front Right,,
+1968,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Monterey,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Monterey,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0303,,Front Left,,
+1968,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0304,,Front Right,,
+1968,Mercury,Park Lane,All Engines,BARE CALIPER,C0303,,Front Left,,
+1968,Mercury,Park Lane,All Engines,BARE CALIPER,C0304,,Front Right,,
+1968,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1968,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1968,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1968,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1968,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1968,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1968,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1968,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1968,Nissan,510,All Engines,SEMI-LOADED CALIPER,SC0501,,Front Left,,
+1968,Nissan,510,All Engines,SEMI-LOADED CALIPER,SC0502,,Front Right,,
+1968,Nissan,510,All Engines,BARE CALIPER,C0501,,Front Left,,
+1968,Nissan,510,All Engines,BARE CALIPER,C0502,,Front Right,,
+1968,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1968,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1968,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1968,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1968,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1968,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1968,Plymouth,Valiant,All Engines,BARE CALIPER,C2001,,Front Left,,
+1968,Plymouth,Valiant,All Engines,BARE CALIPER,C2002,,Front Right,,
+1968,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0525,,Front Left,,
+1968,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0526,,Front Right,,
+1968,Toyota,Crown,All Engines,BARE CALIPER,C0525,,Front Left,,
+1968,Toyota,Crown,All Engines,BARE CALIPER,C0526,,Front Right,,
+1968,Volkswagen,Transporter,All Engines,SEMI-LOADED CALIPER,SC1767A,,Front Left,,
+1968,Volkswagen,Transporter,All Engines,SEMI-LOADED CALIPER,SC1768A,,Front Right,,
+1968,Volkswagen,Transporter,All Engines,BARE CALIPER,C1767A,,Front Left,,
+1968,Volkswagen,Transporter,All Engines,BARE CALIPER,C1768A,,Front Right,,
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Camaro,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909,,Front Left,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910,,Front Right,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909S,,Front Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910S,,Front Right,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911,,Rear Left,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912,,Rear Right,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911S,,Rear Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912S,,Rear Right,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0909S,,Front Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0910S,,Front Right,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0911S,,Rear Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0912S,,Rear Right,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909,,Front Left,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910,,Front Right,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909S,,Front Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910S,,Front Right,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911,,Rear Left,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912,,Rear Right,,Regular Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911S,,Rear Left,,Stainless Steel Sleeve
+1967,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912S,,Rear Right,,Stainless Steel Sleeve
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1967,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1967,Dodge,Dart,All Engines,BARE CALIPER,C2001,,Front Left,,
+1967,Dodge,Dart,All Engines,BARE CALIPER,C2002,,Front Right,,
+1967,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Ford,Fairlane,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0323B,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0324B,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1967,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Brougham,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Brougham,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Caliente,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Caliente,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Cougar,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Marquis,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1967,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1967,Mercury,Villager,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Villager,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,Mercury,Voyager,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1967,Mercury,Voyager,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1967,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1967,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1967,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1967,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1967,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1967,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1967,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1967,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1967,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1967,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1967,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1967,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1967,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1967,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1967,Plymouth,Valiant,All Engines,BARE CALIPER,C2001,,Front Left,,
+1967,Plymouth,Valiant,All Engines,BARE CALIPER,C2002,,Front Right,,
+1967,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0525,,Front Left,,
+1967,Toyota,Crown,All Engines,SEMI-LOADED CALIPER,SC0526,,Front Right,,
+1967,Toyota,Crown,All Engines,BARE CALIPER,C0525,,Front Left,,
+1967,Toyota,Crown,All Engines,BARE CALIPER,C0526,,Front Right,,
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Chevy II,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909,,Front Left,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910,,Front Right,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909S,,Front Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910S,,Front Right,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911,,Rear Left,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912,,Rear Right,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0911S,,Rear Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0912S,,Rear Right,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0909S,,Front Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0910S,,Front Right,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0911S,,Rear Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0912S,,Rear Right,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909,,Front Left,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910,,Front Right,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909S,,Front Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910S,,Front Right,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911,,Rear Left,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912,,Rear Right,,Regular Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0911S,,Rear Left,,Stainless Steel Sleeve
+1966,Chevrolet,Corvette,All Engines,BARE CALIPER,C0912S,,Rear Right,,Stainless Steel Sleeve
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199B,,Front Left,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200B,,Front Right,,"w/ 1/2"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0199A,,Front Left,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1966,Chevrolet,Nova,All Engines,SEMI-LOADED CALIPER,SC0200A,,Front Right,,"w/ 7/16"" Brake Hose Inlet, 4 Piston"
+1966,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1966,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1966,Dodge,Dart,All Engines,BARE CALIPER,C2001,,Front Left,,
+1966,Dodge,Dart,All Engines,BARE CALIPER,C2002,,Front Right,,
+1966,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1966,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1966,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1966,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1966,Mercury,Comet,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1966,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1966,Mercury,Cyclone,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1966,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1966,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1966,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1966,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1966,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1966,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1966,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1966,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1966,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1966,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1966,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1966,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1966,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1966,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1966,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1966,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1966,Plymouth,Valiant,All Engines,BARE CALIPER,C2001,,Front Left,,
+1966,Plymouth,Valiant,All Engines,BARE CALIPER,C2002,,Front Right,,
+1965,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909,,Front Left,,Regular Sleeve
+1965,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910,,Front Right,,Regular Sleeve
+1965,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0909S,,Front Left,,Stainless Steel Sleeve
+1965,Chevrolet,Corvette,All Engines,SEMI-LOADED CALIPER,SC0910S,,Front Right,,Stainless Steel Sleeve
+1965,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0909S,,Front Left,,Stainless Steel Sleeve
+1965,Chevrolet,Corvette,All Engines,NEW SEMI-LOADED CALIPER,NSC0910S,,Front Right,,Stainless Steel Sleeve
+1965,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909,,Front Left,,Regular Sleeve
+1965,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910,,Front Right,,Regular Sleeve
+1965,Chevrolet,Corvette,All Engines,BARE CALIPER,C0909S,,Front Left,,Stainless Steel Sleeve
+1965,Chevrolet,Corvette,All Engines,BARE CALIPER,C0910S,,Front Right,,Stainless Steel Sleeve
+1965,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1965,Dodge,Dart,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1965,Dodge,Dart,All Engines,BARE CALIPER,C2001,,Front Left,,
+1965,Dodge,Dart,All Engines,BARE CALIPER,C2002,,Front Right,,
+1965,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Country Sedan,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Country Squire,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Custom,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Custom 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,4 Piston
+1965,Ford,Falcon,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,4 Piston
+1965,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Galaxie,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Galaxie 500,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,LTD,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0323A,,Front Left,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1965,Ford,Mustang,All Engines,SEMI-LOADED CALIPER,SC0324A,,Front Right,,"w/ 3/8"" Brake Hose Inlet, 4 Piston"
+1965,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Ranch Wagon,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Ford,Thunderbird,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Lincoln,Continental,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Colony Park,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Commuter,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Marauder,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Montclair,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Monterey,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0323,,Front Left,,4 Piston
+1965,Mercury,Park Lane,All Engines,SEMI-LOADED CALIPER,SC0324,,Front Right,,4 Piston
+1965,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1965,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1965,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1965,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1965,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1965,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1965,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1965,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1965,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1965,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1965,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1965,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1965,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1965,Plymouth,Valiant,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1965,Plymouth,Valiant,All Engines,BARE CALIPER,C2001,,Front Left,,
+1965,Plymouth,Valiant,All Engines,BARE CALIPER,C2002,,Front Right,,
+1964,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1964,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1964,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1964,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1964,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1964,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1964,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1964,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,
+1964,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2001,,Front Left,,
+1964,Plymouth,Barracuda,All Engines,SEMI-LOADED CALIPER,SC2002,,Front Right,,
+1964,Plymouth,Barracuda,All Engines,BARE CALIPER,C2001,,Front Left,,
+1964,Plymouth,Barracuda,All Engines,BARE CALIPER,C2002,,Front Right,,
+1963,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0789,,Front Left,,
+1963,MG,MGB,All Engines,SEMI-LOADED CALIPER,SC0790,,Front Right,,
+1963,MG,MGB,All Engines,BARE CALIPER,C0789,,Front Left,,
+1963,MG,MGB,All Engines,BARE CALIPER,C0790,,Front Right,,
+1963,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0743,,Front Left,,
+1963,MG,Midget,All Engines,SEMI-LOADED CALIPER,SC0744,,Front Right,,
+1963,MG,Midget,All Engines,BARE CALIPER,C0743,,Front Left,,
+1963,MG,Midget,All Engines,BARE CALIPER,C0744,,Front Right,,

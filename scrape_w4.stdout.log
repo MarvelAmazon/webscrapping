@@ -1,0 +1,962 @@
+2026-05-06 04:55:16,343 | INFO | ============================================================
+2026-05-06 04:55:16,343 | INFO | Starting w4 | years=1917..1959 | delay=0.50s | resume=0 pairs
+2026-05-06 04:55:16,569 | INFO | Opening https://dns.mypartfinder.com/
+2026-05-06 04:55:18,339 | INFO | Years to crawl: 38 (1959..1917)
+2026-05-06 04:55:20,448 | INFO | 1959 | Austin | Mini -> 0 rows
+2026-05-06 04:55:21,486 | INFO | 1959 | Austin | Mini 850 -> 0 rows
+2026-05-06 04:55:21,987 | INFO | Make complete: 1959 / Austin (combos=2 rows=0 failures=0)
+2026-05-06 04:55:22,894 | INFO | 1959 | Austin Healey | 100-6 -> 0 rows
+2026-05-06 04:55:24,419 | INFO | 1959 | Austin Healey | 3000 -> 0 rows
+2026-05-06 04:55:25,409 | INFO | 1959 | Austin Healey | Sprite -> 0 rows
+2026-05-06 04:55:25,914 | INFO | Make complete: 1959 / Austin Healey (combos=5 rows=0 failures=0)
+2026-05-06 04:55:26,614 | INFO | 1959 | Autobianchi | Bianchina -> 0 rows
+2026-05-06 04:55:27,119 | INFO | Make complete: 1959 / Autobianchi (combos=6 rows=0 failures=0)
+2026-05-06 04:55:27,848 | INFO | 1959 | Buick | Electra -> 0 rows
+2026-05-06 04:55:29,556 | INFO | 1959 | Buick | Estate Wagon -> 0 rows
+2026-05-06 04:55:30,582 | INFO | 1959 | Buick | Invicta -> 0 rows
+2026-05-06 04:55:31,585 | INFO | 1959 | Buick | LeSabre -> 0 rows
+2026-05-06 04:55:32,091 | INFO | Make complete: 1959 / Buick (combos=10 rows=0 failures=0)
+2026-05-06 04:55:32,812 | INFO | 1959 | Cadillac | DeVille -> 0 rows
+2026-05-06 04:55:33,913 | INFO | 1959 | Cadillac | Eldorado -> 0 rows
+2026-05-06 04:55:35,447 | INFO | 1959 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 04:55:36,570 | INFO | 1959 | Cadillac | Series 62 -> 0 rows
+2026-05-06 04:55:37,074 | INFO | Make complete: 1959 / Cadillac (combos=14 rows=0 failures=0)
+2026-05-06 04:55:37,922 | INFO | 1959 | Case | 310 Crawler Dozer -> 0 rows
+2026-05-06 04:55:38,918 | INFO | 1959 | Case | 420C Crawler Dozer -> 0 rows
+2026-05-06 04:55:39,958 | INFO | 1959 | Case | 435 Tractor -> 0 rows
+2026-05-06 04:55:41,068 | INFO | 1959 | Case | 480CK Construction King Tractor -> 0 rows
+2026-05-06 04:55:42,722 | INFO | 1959 | Case | 535LCK Construction King Tractor -> 0 rows
+2026-05-06 04:55:43,864 | INFO | 1959 | Case | 580CK Construction King Tractor -> 0 rows
+2026-05-06 04:55:44,910 | INFO | 1959 | Case | 600 Combine -> 0 rows
+2026-05-06 04:55:46,426 | INFO | 1959 | Case | 620 Tractor -> 0 rows
+2026-05-06 04:55:47,999 | INFO | 1959 | Case | 641 Tractor -> 0 rows
+2026-05-06 04:55:49,103 | INFO | 1959 | Case | 660 Tractor -> 0 rows
+2026-05-06 04:55:49,609 | INFO | Make complete: 1959 / Case (combos=24 rows=0 failures=0)
+2026-05-06 04:55:50,861 | INFO | 1959 | Case IH | 93 Combine -> 0 rows
+2026-05-06 04:55:51,366 | INFO | Make complete: 1959 / Case IH (combos=25 rows=0 failures=0)
+2026-05-06 04:55:52,092 | INFO | 1959 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 04:55:53,100 | INFO | 1959 | Chevrolet | Biscayne -> 0 rows
+2026-05-06 04:55:54,625 | INFO | 1959 | Chevrolet | Brookwood -> 0 rows
+2026-05-06 04:55:55,693 | INFO | 1959 | Chevrolet | Corvette -> 0 rows
+2026-05-06 04:55:56,688 | INFO | 1959 | Chevrolet | El Camino -> 0 rows
+2026-05-06 04:55:57,786 | INFO | 1959 | Chevrolet | Impala -> 0 rows
+2026-05-06 04:55:59,383 | INFO | 1959 | Chevrolet | Truck -> 0 rows
+2026-05-06 04:55:59,888 | INFO | Make complete: 1959 / Chevrolet (combos=32 rows=0 failures=0)
+2026-05-06 04:56:01,157 | INFO | 1959 | Chrysler | 300 -> 0 rows
+2026-05-06 04:56:02,201 | INFO | 1959 | Chrysler | Imperial -> 0 rows
+2026-05-06 04:56:03,239 | INFO | 1959 | Chrysler | Town & Country -> 0 rows
+2026-05-06 04:56:04,797 | INFO | 1959 | Chrysler | Windsor -> 0 rows
+2026-05-06 04:56:05,303 | INFO | Make complete: 1959 / Chrysler (combos=36 rows=0 failures=0)
+2026-05-06 04:56:06,024 | INFO | 1959 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 04:56:07,029 | INFO | 1959 | Cockshutt | 550 Tractor -> 0 rows
+2026-05-06 04:56:08,045 | INFO | 1959 | Cockshutt | 552 Tractor -> 0 rows
+2026-05-06 04:56:09,061 | INFO | 1959 | Cockshutt | 555 Tractor -> 0 rows
+2026-05-06 04:56:10,118 | INFO | 1959 | Cockshutt | 570 Tractor -> 0 rows
+2026-05-06 04:56:10,623 | INFO | Make complete: 1959 / Cockshutt (combos=41 rows=0 failures=0)
+2026-05-06 04:56:11,383 | INFO | 1959 | DeSoto | Adventurer -> 0 rows
+2026-05-06 04:56:12,406 | INFO | 1959 | DeSoto | Firedome -> 0 rows
+2026-05-06 04:56:13,408 | INFO | 1959 | DeSoto | Fireflite -> 0 rows
+2026-05-06 04:56:14,434 | INFO | 1959 | DeSoto | Firesweep -> 0 rows
+2026-05-06 04:56:14,939 | INFO | Make complete: 1959 / DeSoto (combos=45 rows=0 failures=0)
+2026-05-06 04:56:16,245 | INFO | 1959 | Dodge | Coronet -> 0 rows
+2026-05-06 04:56:17,253 | INFO | 1959 | Dodge | Custom -> 0 rows
+2026-05-06 04:56:18,755 | INFO | 1959 | Dodge | D100 Pickup -> 0 rows
+2026-05-06 04:56:19,894 | INFO | 1959 | Dodge | D200 Pickup -> 0 rows
+2026-05-06 04:56:20,946 | INFO | 1959 | Dodge | D300 Pickup -> 0 rows
+2026-05-06 04:56:21,951 | INFO | 1959 | Dodge | Royal -> 0 rows
+2026-05-06 04:56:23,477 | INFO | 1959 | Dodge | Truck -> 0 rows
+2026-05-06 04:56:24,491 | INFO | 1959 | Dodge | W100 Pickup -> 0 rows
+2026-05-06 04:56:26,022 | INFO | 1959 | Dodge | W200 Pickup -> 0 rows
+2026-05-06 04:56:27,028 | INFO | 1959 | Dodge | W300 Pickup -> 0 rows
+2026-05-06 04:56:27,532 | INFO | Make complete: 1959 / Dodge (combos=55 rows=0 failures=0)
+2026-05-06 04:56:28,301 | INFO | 1959 | Fiat | 500 -> 0 rows
+2026-05-06 04:56:28,805 | INFO | Make complete: 1959 / Fiat (combos=56 rows=0 failures=0)
+2026-05-06 04:56:29,541 | INFO | 1959 | Ford | Club -> 0 rows
+2026-05-06 04:56:30,574 | INFO | 1959 | Ford | Country Sedan -> 0 rows
+2026-05-06 04:56:31,592 | INFO | 1959 | Ford | Country Squire -> 0 rows
+2026-05-06 04:56:33,085 | INFO | 1959 | Ford | Courier Sedan Delivery -> 0 rows
+2026-05-06 04:56:34,634 | INFO | 1959 | Ford | Custom 300 -> 0 rows
+2026-05-06 04:56:36,146 | INFO | 1959 | Ford | F-100 -> 0 rows
+2026-05-06 04:56:37,175 | INFO | 1959 | Ford | F-250 -> 0 rows
+2026-05-06 04:56:38,168 | INFO | 1959 | Ford | F-350 -> 0 rows
+2026-05-06 04:56:39,752 | INFO | 1959 | Ford | Fairlane -> 0 rows
+2026-05-06 04:56:40,753 | INFO | 1959 | Ford | Galaxie -> 0 rows
+2026-05-06 04:56:41,753 | INFO | 1959 | Ford | P-100 -> 0 rows
+2026-05-06 04:56:43,260 | INFO | 1959 | Ford | P-350 -> 0 rows
+2026-05-06 04:56:44,340 | INFO | 1959 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 04:56:45,853 | INFO | 1959 | Ford | Ranchero -> 0 rows
+2026-05-06 04:56:47,480 | INFO | 1959 | Ford | Sunliner -> 0 rows
+2026-05-06 04:56:48,998 | INFO | 1959 | Ford | Thunderbird -> 0 rows
+2026-05-06 04:56:50,005 | INFO | 1959 | Ford | Victoria -> 0 rows
+2026-05-06 04:56:50,509 | INFO | Make complete: 1959 / Ford (combos=73 rows=0 failures=0)
+2026-05-06 04:56:51,250 | INFO | 1959 | Fordson | Dextra Tractor -> 0 rows
+2026-05-06 04:56:51,755 | INFO | Make complete: 1959 / Fordson (combos=74 rows=0 failures=0)
+2026-05-06 04:56:52,694 | INFO | 1959 | Jeep | CJ3 -> 0 rows
+2026-05-06 04:56:53,723 | INFO | 1959 | Jeep | CJ5 -> 0 rows
+2026-05-06 04:56:54,739 | INFO | 1959 | Jeep | CJ6 -> 0 rows
+2026-05-06 04:56:56,294 | INFO | 1959 | Jeep | DJ3 -> 0 rows
+2026-05-06 04:56:57,870 | INFO | 1959 | Jeep | F4 -> 0 rows
+2026-05-06 04:56:58,926 | INFO | 1959 | Jeep | F4-134 -> 0 rows
+2026-05-06 04:56:59,983 | INFO | 1959 | Jeep | FA-134 -> 0 rows
+2026-05-06 04:57:01,008 | INFO | 1959 | Jeep | FC150 -> 0 rows
+2026-05-06 04:57:02,022 | INFO | 1959 | Jeep | FC170 -> 0 rows
+2026-05-06 04:57:03,543 | INFO | 1959 | Jeep | Utility Wagon -> 0 rows
+2026-05-06 04:57:04,044 | INFO | Make complete: 1959 / Jeep (combos=84 rows=0 failures=0)
+2026-05-06 04:57:04,866 | INFO | 1959 | Lincoln | Continental -> 0 rows
+2026-05-06 04:57:05,371 | INFO | Make complete: 1959 / Lincoln (combos=85 rows=0 failures=0)
+2026-05-06 04:57:06,120 | INFO | 1959 | Lotus | Elite -> 0 rows
+2026-05-06 04:57:06,625 | INFO | Make complete: 1959 / Lotus (combos=86 rows=0 failures=0)
+2026-05-06 04:57:07,362 | INFO | 1959 | Massey Ferguson | MF35 Utility Tractor -> 0 rows
+2026-05-06 04:57:08,898 | INFO | 1959 | Massey Ferguson | MF65 Utility Tractor -> 0 rows
+2026-05-06 04:57:09,404 | INFO | Make complete: 1959 / Massey Ferguson (combos=88 rows=0 failures=0)
+2026-05-06 04:57:10,643 | INFO | 1959 | Mercedes-Benz | 190 -> 0 rows
+2026-05-06 04:57:11,628 | INFO | 1959 | Mercedes-Benz | 190SL -> 0 rows
+2026-05-06 04:57:13,150 | INFO | 1959 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 04:57:14,173 | INFO | 1959 | Mercedes-Benz | 220b -> 0 rows
+2026-05-06 04:57:15,760 | INFO | 1959 | Mercedes-Benz | 220S -> 0 rows
+2026-05-06 04:57:16,761 | INFO | 1959 | Mercedes-Benz | 220Sb -> 0 rows
+2026-05-06 04:57:18,268 | INFO | 1959 | Mercedes-Benz | 220SE -> 0 rows
+2026-05-06 04:57:18,773 | INFO | Make complete: 1959 / Mercedes-Benz (combos=95 rows=0 failures=0)
+2026-05-06 04:57:19,557 | INFO | 1959 | Mercury | Colony Park -> 0 rows
+2026-05-06 04:57:20,596 | INFO | 1959 | Mercury | Commuter -> 0 rows
+2026-05-06 04:57:21,631 | INFO | 1959 | Mercury | Country Cruiser -> 0 rows
+2026-05-06 04:57:23,151 | INFO | 1959 | Mercury | Montclair -> 0 rows
+2026-05-06 04:57:24,185 | INFO | 1959 | Mercury | Monterey -> 0 rows
+2026-05-06 04:57:25,228 | INFO | 1959 | Mercury | Park Lane -> 0 rows
+2026-05-06 04:57:26,766 | INFO | 1959 | Mercury | Voyager -> 0 rows
+2026-05-06 04:57:27,267 | INFO | Make complete: 1959 / Mercury (combos=102 rows=0 failures=0)
+2026-05-06 04:57:28,787 | INFO | 1959 | MG | MGA -> 0 rows
+2026-05-06 04:57:29,293 | INFO | Make complete: 1959 / MG (combos=103 rows=0 failures=0)
+2026-05-06 04:57:30,622 | INFO | 1959 | Oldsmobile | 98 -> 0 rows
+2026-05-06 04:57:31,995 | INFO | 1959 | Oldsmobile | Dynamic 88 -> 0 rows
+2026-05-06 04:57:33,548 | INFO | 1959 | Oldsmobile | Fiesta -> 0 rows
+2026-05-06 04:57:35,060 | INFO | 1959 | Oldsmobile | Super 88 -> 0 rows
+2026-05-06 04:57:35,562 | INFO | Make complete: 1959 / Oldsmobile (combos=107 rows=0 failures=0)
+2026-05-06 04:57:36,783 | INFO | 1959 | Plymouth | Belvedere -> 0 rows
+2026-05-06 04:57:38,286 | INFO | 1959 | Plymouth | Custom -> 0 rows
+2026-05-06 04:57:39,272 | INFO | 1959 | Plymouth | Fury -> 0 rows
+2026-05-06 04:57:40,759 | INFO | 1959 | Plymouth | Savoy -> 0 rows
+2026-05-06 04:57:41,843 | INFO | 1959 | Plymouth | Suburban -> 0 rows
+2026-05-06 04:57:42,349 | INFO | Make complete: 1959 / Plymouth (combos=112 rows=0 failures=0)
+2026-05-06 04:57:43,074 | INFO | 1959 | Pontiac | Bonneville -> 0 rows
+2026-05-06 04:57:44,662 | INFO | 1959 | Pontiac | Catalina -> 0 rows
+2026-05-06 04:57:46,205 | INFO | 1959 | Pontiac | Laurentian -> 0 rows
+2026-05-06 04:57:47,753 | INFO | 1959 | Pontiac | Parisienne -> 0 rows
+2026-05-06 04:57:49,323 | INFO | 1959 | Pontiac | Star Chief -> 0 rows
+2026-05-06 04:57:50,340 | INFO | 1959 | Pontiac | Strato-Chief -> 0 rows
+2026-05-06 04:57:50,842 | INFO | Make complete: 1959 / Pontiac (combos=118 rows=0 failures=0)
+2026-05-06 04:57:53,569 | INFO | 1959 | Studebaker | Lark -> 0 rows
+2026-05-06 04:57:55,130 | INFO | 1959 | Studebaker | Silver Hawk -> 0 rows
+2026-05-06 04:57:55,636 | INFO | Make complete: 1959 / Studebaker (combos=120 rows=0 failures=0)
+2026-05-06 04:57:56,878 | INFO | 1959 | Volkswagen | Beetle -> 0 rows
+2026-05-06 04:57:58,468 | INFO | 1959 | Volkswagen | Karmann Ghia -> 0 rows
+2026-05-06 04:57:59,490 | INFO | 1959 | Volkswagen | Transporter -> 0 rows
+2026-05-06 04:57:59,992 | INFO | Make complete: 1959 / Volkswagen (combos=123 rows=0 failures=0)
+2026-05-06 04:58:00,973 | INFO | 1958 | Austin Healey | 100-6 -> 0 rows
+2026-05-06 04:58:02,522 | INFO | 1958 | Austin Healey | Sprite -> 0 rows
+2026-05-06 04:58:03,028 | INFO | Make complete: 1958 / Austin Healey (combos=125 rows=0 failures=0)
+2026-05-06 04:58:03,916 | INFO | 1958 | Autobianchi | Bianchina -> 0 rows
+2026-05-06 04:58:04,421 | INFO | Make complete: 1958 / Autobianchi (combos=126 rows=0 failures=0)
+2026-05-06 04:58:05,190 | INFO | 1958 | Cadillac | DeVille -> 0 rows
+2026-05-06 04:58:06,180 | INFO | 1958 | Cadillac | Eldorado -> 0 rows
+2026-05-06 04:58:07,740 | INFO | 1958 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 04:58:09,301 | INFO | 1958 | Cadillac | Series 62 -> 0 rows
+2026-05-06 04:58:09,805 | INFO | Make complete: 1958 / Cadillac (combos=130 rows=0 failures=0)
+2026-05-06 04:58:11,086 | INFO | 1958 | Case | 310 Crawler Dozer -> 0 rows
+2026-05-06 04:58:12,684 | INFO | 1958 | Case | 500 Tractor -> 0 rows
+2026-05-06 04:58:13,687 | INFO | 1958 | Case | 600 Combine -> 0 rows
+2026-05-06 04:58:14,192 | INFO | Make complete: 1958 / Case (combos=133 rows=0 failures=0)
+2026-05-06 04:58:14,930 | INFO | 1958 | Case IH | 93 Combine -> 0 rows
+2026-05-06 04:58:15,434 | INFO | Make complete: 1958 / Case IH (combos=134 rows=0 failures=0)
+2026-05-06 04:58:16,177 | INFO | 1958 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 04:58:17,717 | INFO | 1958 | Chevrolet | Biscayne -> 0 rows
+2026-05-06 04:58:18,747 | INFO | 1958 | Chevrolet | Brookwood -> 0 rows
+2026-05-06 04:58:19,810 | INFO | 1958 | Chevrolet | Corvette -> 0 rows
+2026-05-06 04:58:21,395 | INFO | 1958 | Chevrolet | Del Ray -> 0 rows
+2026-05-06 04:58:22,406 | INFO | 1958 | Chevrolet | Impala -> 0 rows
+2026-05-06 04:58:23,490 | INFO | 1958 | Chevrolet | Truck -> 0 rows
+2026-05-06 04:58:23,995 | INFO | Make complete: 1958 / Chevrolet (combos=141 rows=0 failures=0)
+2026-05-06 04:58:24,758 | INFO | 1958 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 04:58:25,865 | INFO | 1958 | Cockshutt | 550 Tractor -> 0 rows
+2026-05-06 04:58:27,420 | INFO | 1958 | Cockshutt | 552 Tractor -> 0 rows
+2026-05-06 04:58:29,995 | INFO | 1958 | Cockshutt | 555 Tractor -> 0 rows
+2026-05-06 04:58:31,635 | INFO | 1958 | Cockshutt | 570 Tractor -> 0 rows
+2026-05-06 04:58:32,140 | INFO | Make complete: 1958 / Cockshutt (combos=146 rows=0 failures=0)
+2026-05-06 04:58:33,403 | INFO | 1958 | DeSoto | Adventurer -> 0 rows
+2026-05-06 04:58:35,083 | INFO | 1958 | DeSoto | Firedome -> 0 rows
+2026-05-06 04:58:36,626 | INFO | 1958 | DeSoto | Fireflite -> 0 rows
+2026-05-06 04:58:38,148 | INFO | 1958 | DeSoto | Firesweep -> 0 rows
+2026-05-06 04:58:38,653 | INFO | Make complete: 1958 / DeSoto (combos=150 rows=0 failures=0)
+2026-05-06 04:58:40,769 | INFO | 1958 | Dodge | Coronet -> 0 rows
+2026-05-06 04:58:42,315 | INFO | 1958 | Dodge | Custom -> 0 rows
+2026-05-06 04:58:46,976 | INFO | 1958 | Dodge | Royal -> 0 rows
+2026-05-06 04:58:48,003 | INFO | 1958 | Dodge | W100 Pickup -> 0 rows
+2026-05-06 04:58:49,050 | INFO | 1958 | Dodge | W200 Pickup -> 0 rows
+2026-05-06 04:58:50,098 | INFO | 1958 | Dodge | W300 Pickup -> 0 rows
+2026-05-06 04:58:50,599 | INFO | Make complete: 1958 / Dodge (combos=156 rows=0 failures=0)
+2026-05-06 04:58:51,451 | INFO | 1958 | Fiat | 500 -> 0 rows
+2026-05-06 04:58:51,957 | INFO | Make complete: 1958 / Fiat (combos=157 rows=0 failures=0)
+2026-05-06 04:58:53,153 | INFO | 1958 | Ford | Club -> 0 rows
+2026-05-06 04:58:54,167 | INFO | 1958 | Ford | Country Sedan -> 0 rows
+2026-05-06 04:58:55,200 | INFO | 1958 | Ford | Country Squire -> 0 rows
+2026-05-06 04:58:56,772 | INFO | 1958 | Ford | Courier Sedan Delivery -> 0 rows
+2026-05-06 04:58:58,306 | INFO | 1958 | Ford | Custom 300 -> 0 rows
+2026-05-06 04:58:59,864 | INFO | 1958 | Ford | F-100 -> 0 rows
+2026-05-06 04:59:01,365 | INFO | 1958 | Ford | F-250 -> 0 rows
+2026-05-06 04:59:02,890 | INFO | 1958 | Ford | F-350 -> 0 rows
+2026-05-06 04:59:04,431 | INFO | 1958 | Ford | Fairlane -> 0 rows
+2026-05-06 04:59:05,979 | INFO | 1958 | Ford | P-100 -> 0 rows
+2026-05-06 04:59:07,517 | INFO | 1958 | Ford | P-350 -> 0 rows
+2026-05-06 04:59:09,062 | INFO | 1958 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 04:59:10,604 | INFO | 1958 | Ford | Ranchero -> 0 rows
+2026-05-06 04:59:12,131 | INFO | 1958 | Ford | Sunliner -> 0 rows
+2026-05-06 04:59:13,661 | INFO | 1958 | Ford | Thunderbird -> 0 rows
+2026-05-06 04:59:15,188 | INFO | 1958 | Ford | Victoria -> 0 rows
+2026-05-06 04:59:15,691 | INFO | Make complete: 1958 / Ford (combos=173 rows=0 failures=0)
+2026-05-06 04:59:16,446 | INFO | 1958 | Fordson | Dextra Tractor -> 0 rows
+2026-05-06 04:59:16,949 | INFO | Make complete: 1958 / Fordson (combos=174 rows=0 failures=0)
+2026-05-06 04:59:17,706 | INFO | 1958 | Jeep | F4 -> 0 rows
+2026-05-06 04:59:18,737 | INFO | 1958 | Jeep | F4-134 -> 0 rows
+2026-05-06 04:59:19,765 | INFO | 1958 | Jeep | FA-134 -> 0 rows
+2026-05-06 04:59:20,802 | INFO | 1958 | Jeep | FC150 -> 0 rows
+2026-05-06 04:59:21,856 | INFO | 1958 | Jeep | FC170 -> 0 rows
+2026-05-06 04:59:22,872 | INFO | 1958 | Jeep | Willys -> 0 rows
+2026-05-06 04:59:23,375 | INFO | Make complete: 1958 / Jeep (combos=180 rows=0 failures=0)
+2026-05-06 04:59:24,090 | INFO | 1958 | Lincoln | Continental -> 0 rows
+2026-05-06 04:59:24,595 | INFO | Make complete: 1958 / Lincoln (combos=181 rows=0 failures=0)
+2026-05-06 04:59:25,331 | INFO | 1958 | Lotus | Elite -> 0 rows
+2026-05-06 04:59:25,837 | INFO | Make complete: 1958 / Lotus (combos=182 rows=0 failures=0)
+2026-05-06 04:59:26,594 | INFO | 1958 | Massey Ferguson | MF35 Utility Tractor -> 0 rows
+2026-05-06 04:59:27,607 | INFO | 1958 | Massey Ferguson | MF65 Utility Tractor -> 0 rows
+2026-05-06 04:59:28,114 | INFO | Make complete: 1958 / Massey Ferguson (combos=184 rows=0 failures=0)
+2026-05-06 04:59:29,201 | INFO | 1958 | Mercedes-Benz | 190 -> 0 rows
+2026-05-06 04:59:30,240 | INFO | 1958 | Mercedes-Benz | 190SL -> 0 rows
+2026-05-06 04:59:31,239 | INFO | 1958 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 04:59:32,264 | INFO | 1958 | Mercedes-Benz | 220b -> 0 rows
+2026-05-06 04:59:33,313 | INFO | 1958 | Mercedes-Benz | 220S -> 0 rows
+2026-05-06 04:59:34,344 | INFO | 1958 | Mercedes-Benz | 220Sb -> 0 rows
+2026-05-06 04:59:35,383 | INFO | 1958 | Mercedes-Benz | 220SE -> 0 rows
+2026-05-06 04:59:35,887 | INFO | Make complete: 1958 / Mercedes-Benz (combos=191 rows=0 failures=0)
+2026-05-06 04:59:36,646 | INFO | 1958 | Mercury | Colony Park -> 0 rows
+2026-05-06 04:59:37,671 | INFO | 1958 | Mercury | Commuter -> 0 rows
+2026-05-06 04:59:38,726 | INFO | 1958 | Mercury | Montclair -> 0 rows
+2026-05-06 04:59:39,761 | INFO | 1958 | Mercury | Monterey -> 0 rows
+2026-05-06 04:59:40,813 | INFO | 1958 | Mercury | Park Lane -> 0 rows
+2026-05-06 04:59:42,369 | INFO | 1958 | Mercury | Voyager -> 0 rows
+2026-05-06 04:59:42,875 | INFO | Make complete: 1958 / Mercury (combos=197 rows=0 failures=0)
+2026-05-06 04:59:43,648 | INFO | 1958 | MG | MGA -> 0 rows
+2026-05-06 04:59:44,150 | INFO | Make complete: 1958 / MG (combos=198 rows=0 failures=0)
+2026-05-06 04:59:44,937 | INFO | 1958 | Oldsmobile | 98 -> 0 rows
+2026-05-06 04:59:45,951 | INFO | 1958 | Oldsmobile | Dynamic 88 -> 0 rows
+2026-05-06 04:59:46,957 | INFO | 1958 | Oldsmobile | Fiesta -> 0 rows
+2026-05-06 04:59:47,985 | INFO | 1958 | Oldsmobile | Super 88 -> 0 rows
+2026-05-06 04:59:48,492 | INFO | Make complete: 1958 / Oldsmobile (combos=202 rows=0 failures=0)
+2026-05-06 04:59:49,811 | INFO | 1958 | Oliver | OC4-3D Tractor -> 0 rows
+2026-05-06 04:59:50,318 | INFO | Make complete: 1958 / Oliver (combos=203 rows=0 failures=0)
+2026-05-06 04:59:51,588 | INFO | 1958 | Pontiac | Bonneville -> 0 rows
+2026-05-06 04:59:52,582 | INFO | 1958 | Pontiac | Catalina -> 0 rows
+2026-05-06 04:59:53,600 | INFO | 1958 | Pontiac | Chieftain -> 0 rows
+2026-05-06 04:59:54,636 | INFO | 1958 | Pontiac | Laurentian -> 0 rows
+2026-05-06 04:59:55,660 | INFO | 1958 | Pontiac | Star Chief -> 0 rows
+2026-05-06 04:59:56,679 | INFO | 1958 | Pontiac | Strato-Chief -> 0 rows
+2026-05-06 04:59:58,188 | INFO | 1958 | Pontiac | Super Chief -> 0 rows
+2026-05-06 04:59:58,691 | INFO | Make complete: 1958 / Pontiac (combos=210 rows=0 failures=0)
+2026-05-06 04:59:59,410 | INFO | 1958 | Studebaker | Commander -> 0 rows
+2026-05-06 05:00:00,920 | INFO | 1958 | Studebaker | Golden Hawk -> 0 rows
+2026-05-06 05:00:02,028 | INFO | 1958 | Studebaker | President -> 0 rows
+2026-05-06 05:00:03,738 | INFO | 1958 | Studebaker | Silver Hawk -> 0 rows
+2026-05-06 05:00:04,248 | INFO | Make complete: 1958 / Studebaker (combos=214 rows=0 failures=0)
+2026-05-06 05:00:05,187 | INFO | 1958 | Volkswagen | Beetle -> 0 rows
+2026-05-06 05:00:06,724 | INFO | 1958 | Volkswagen | Karmann Ghia -> 0 rows
+2026-05-06 05:00:07,768 | INFO | 1958 | Volkswagen | Transporter -> 0 rows
+2026-05-06 05:00:08,270 | INFO | Make complete: 1958 / Volkswagen (combos=217 rows=0 failures=0)
+2026-05-06 05:00:09,235 | INFO | 1957 | Austin Healey | 100 -> 0 rows
+2026-05-06 05:00:10,250 | INFO | 1957 | Austin Healey | 100-6 -> 0 rows
+2026-05-06 05:00:10,756 | INFO | Make complete: 1957 / Austin Healey (combos=219 rows=0 failures=0)
+2026-05-06 05:00:11,522 | INFO | 1957 | Autobianchi | Bianchina -> 0 rows
+2026-05-06 05:00:12,025 | INFO | Make complete: 1957 / Autobianchi (combos=220 rows=0 failures=0)
+2026-05-06 05:00:12,910 | INFO | 1957 | Cadillac | DeVille -> 0 rows
+2026-05-06 05:00:14,433 | INFO | 1957 | Cadillac | Eldorado -> 0 rows
+2026-05-06 05:00:15,961 | INFO | 1957 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:00:17,491 | INFO | 1957 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:00:17,996 | INFO | Make complete: 1957 / Cadillac (combos=224 rows=0 failures=0)
+2026-05-06 05:00:19,364 | INFO | 1957 | Case | 220 Farm Tractor -> 0 rows
+2026-05-06 05:00:20,956 | INFO | 1957 | Case | 230 Farm Tractor -> 0 rows
+2026-05-06 05:00:21,975 | INFO | 1957 | Case | 310 Crawler Dozer -> 0 rows
+2026-05-06 05:00:23,000 | INFO | 1957 | Case | 500 Tractor -> 0 rows
+2026-05-06 05:00:23,990 | INFO | 1957 | Case | 600 Combine -> 0 rows
+2026-05-06 05:00:24,494 | INFO | Make complete: 1957 / Case (combos=229 rows=0 failures=0)
+2026-05-06 05:00:25,735 | INFO | 1957 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:00:26,714 | INFO | 1957 | Chevrolet | Corvette -> 0 rows
+2026-05-06 05:00:27,725 | INFO | 1957 | Chevrolet | Del Ray -> 0 rows
+2026-05-06 05:00:28,756 | INFO | 1957 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:00:29,264 | INFO | Make complete: 1957 / Chevrolet (combos=233 rows=0 failures=0)
+2026-05-06 05:00:30,111 | INFO | 1957 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:00:31,733 | INFO | 1957 | Cockshutt | 550 Tractor -> 0 rows
+2026-05-06 05:00:33,251 | INFO | 1957 | Cockshutt | 552 Tractor -> 0 rows
+2026-05-06 05:00:34,802 | INFO | 1957 | Cockshutt | 555 Tractor -> 0 rows
+2026-05-06 05:00:36,317 | INFO | 1957 | Cockshutt | 570 Tractor -> 0 rows
+2026-05-06 05:00:36,820 | INFO | Make complete: 1957 / Cockshutt (combos=238 rows=0 failures=0)
+2026-05-06 05:00:37,541 | INFO | 1957 | Dodge | W100 Pickup -> 0 rows
+2026-05-06 05:00:38,552 | INFO | 1957 | Dodge | W200 Pickup -> 0 rows
+2026-05-06 05:00:39,573 | INFO | 1957 | Dodge | W300 Pickup -> 0 rows
+2026-05-06 05:00:40,075 | INFO | Make complete: 1957 / Dodge (combos=241 rows=0 failures=0)
+2026-05-06 05:00:40,801 | INFO | 1957 | Fiat | 500 -> 0 rows
+2026-05-06 05:00:41,306 | INFO | Make complete: 1957 / Fiat (combos=242 rows=0 failures=0)
+2026-05-06 05:00:42,083 | INFO | 1957 | Ford | Club -> 0 rows
+2026-05-06 05:00:43,675 | INFO | 1957 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:00:44,664 | INFO | 1957 | Ford | Country Squire -> 0 rows
+2026-05-06 05:00:45,666 | INFO | 1957 | Ford | Courier Sedan Delivery -> 0 rows
+2026-05-06 05:00:46,697 | INFO | 1957 | Ford | Custom 300 -> 0 rows
+2026-05-06 05:00:48,218 | INFO | 1957 | Ford | F-100 -> 0 rows
+2026-05-06 05:00:49,745 | INFO | 1957 | Ford | F-250 -> 0 rows
+2026-05-06 05:00:50,737 | INFO | 1957 | Ford | F-350 -> 0 rows
+2026-05-06 05:00:51,718 | INFO | 1957 | Ford | Fairlane -> 0 rows
+2026-05-06 05:00:52,890 | INFO | 1957 | Ford | P-100 -> 0 rows
+2026-05-06 05:00:54,383 | INFO | 1957 | Ford | P-350 -> 0 rows
+2026-05-06 05:00:55,447 | INFO | 1957 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:00:56,444 | INFO | 1957 | Ford | Ranchero -> 0 rows
+2026-05-06 05:00:57,456 | INFO | 1957 | Ford | Sunliner -> 0 rows
+2026-05-06 05:00:58,487 | INFO | 1957 | Ford | Thunderbird -> 0 rows
+2026-05-06 05:00:59,999 | INFO | 1957 | Ford | Victoria -> 0 rows
+2026-05-06 05:01:00,505 | INFO | Make complete: 1957 / Ford (combos=258 rows=0 failures=0)
+2026-05-06 05:01:01,757 | INFO | 1957 | Fordson | Dextra Tractor -> 0 rows
+2026-05-06 05:01:02,263 | INFO | Make complete: 1957 / Fordson (combos=259 rows=0 failures=0)
+2026-05-06 05:01:03,552 | INFO | 1957 | Jeep | F4 -> 0 rows
+2026-05-06 05:01:05,080 | INFO | 1957 | Jeep | F4-134 -> 0 rows
+2026-05-06 05:01:06,092 | INFO | 1957 | Jeep | FC150 -> 0 rows
+2026-05-06 05:01:07,112 | INFO | 1957 | Jeep | FC170 -> 0 rows
+2026-05-06 05:01:08,744 | INFO | 1957 | Jeep | Willys -> 0 rows
+2026-05-06 05:01:09,245 | INFO | Make complete: 1957 / Jeep (combos=264 rows=0 failures=0)
+2026-05-06 05:01:10,064 | INFO | 1957 | Mercedes-Benz | 190 -> 0 rows
+2026-05-06 05:01:11,038 | INFO | 1957 | Mercedes-Benz | 190SL -> 0 rows
+2026-05-06 05:01:12,039 | INFO | 1957 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:01:13,071 | INFO | 1957 | Mercedes-Benz | 220S -> 0 rows
+2026-05-06 05:01:13,576 | INFO | Make complete: 1957 / Mercedes-Benz (combos=268 rows=0 failures=0)
+2026-05-06 05:01:14,917 | INFO | 1957 | Mercury | Colony Park -> 0 rows
+2026-05-06 05:01:16,418 | INFO | 1957 | Mercury | Commuter -> 0 rows
+2026-05-06 05:01:17,914 | INFO | 1957 | Mercury | Montclair -> 0 rows
+2026-05-06 05:01:18,934 | INFO | 1957 | Mercury | Monterey -> 0 rows
+2026-05-06 05:01:19,939 | INFO | 1957 | Mercury | Voyager -> 0 rows
+2026-05-06 05:01:20,442 | INFO | Make complete: 1957 / Mercury (combos=273 rows=0 failures=0)
+2026-05-06 05:01:21,672 | INFO | 1957 | MG | MGA -> 0 rows
+2026-05-06 05:01:22,176 | INFO | Make complete: 1957 / MG (combos=274 rows=0 failures=0)
+2026-05-06 05:01:22,844 | INFO | 1957 | Oldsmobile | 98 -> 0 rows
+2026-05-06 05:01:23,887 | INFO | 1957 | Oldsmobile | Fiesta -> 0 rows
+2026-05-06 05:01:25,458 | INFO | 1957 | Oldsmobile | Starfire -> 0 rows
+2026-05-06 05:01:26,505 | INFO | 1957 | Oldsmobile | Super 88 -> 0 rows
+2026-05-06 05:01:27,006 | INFO | Make complete: 1957 / Oldsmobile (combos=278 rows=0 failures=0)
+2026-05-06 05:01:27,721 | INFO | 1957 | Oliver | OC4-3D Tractor -> 0 rows
+2026-05-06 05:01:28,224 | INFO | Make complete: 1957 / Oliver (combos=279 rows=0 failures=0)
+2026-05-06 05:01:29,441 | INFO | 1957 | Pontiac | Laurentian -> 0 rows
+2026-05-06 05:01:30,470 | INFO | 1957 | Pontiac | Super Chief -> 0 rows
+2026-05-06 05:01:30,976 | INFO | Make complete: 1957 / Pontiac (combos=281 rows=0 failures=0)
+2026-05-06 05:01:31,766 | INFO | 1957 | Studebaker | Commander -> 0 rows
+2026-05-06 05:01:32,815 | INFO | 1957 | Studebaker | Golden Hawk -> 0 rows
+2026-05-06 05:01:33,845 | INFO | 1957 | Studebaker | President -> 0 rows
+2026-05-06 05:01:34,933 | INFO | 1957 | Studebaker | Silver Hawk -> 0 rows
+2026-05-06 05:01:35,437 | INFO | Make complete: 1957 / Studebaker (combos=285 rows=0 failures=0)
+2026-05-06 05:01:36,165 | INFO | 1957 | Volkswagen | Beetle -> 0 rows
+2026-05-06 05:01:37,163 | INFO | 1957 | Volkswagen | Karmann Ghia -> 0 rows
+2026-05-06 05:01:38,168 | INFO | 1957 | Volkswagen | Transporter -> 0 rows
+2026-05-06 05:01:38,674 | INFO | Make complete: 1957 / Volkswagen (combos=288 rows=0 failures=0)
+2026-05-06 05:01:39,637 | INFO | 1956 | Austin Healey | 100 -> 0 rows
+2026-05-06 05:01:40,660 | INFO | 1956 | Austin Healey | 100-6 -> 0 rows
+2026-05-06 05:01:41,161 | INFO | Make complete: 1956 / Austin Healey (combos=290 rows=0 failures=0)
+2026-05-06 05:01:41,879 | INFO | 1956 | Buick | Century -> 0 rows
+2026-05-06 05:01:42,383 | INFO | Make complete: 1956 / Buick (combos=291 rows=0 failures=0)
+2026-05-06 05:01:43,114 | INFO | 1956 | Cadillac | DeVille -> 0 rows
+2026-05-06 05:01:44,149 | INFO | 1956 | Cadillac | Eldorado -> 0 rows
+2026-05-06 05:01:45,171 | INFO | 1956 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:01:46,216 | INFO | 1956 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:01:46,722 | INFO | Make complete: 1956 / Cadillac (combos=295 rows=0 failures=0)
+2026-05-06 05:01:47,487 | INFO | 1956 | Case | 220 Farm Tractor -> 0 rows
+2026-05-06 05:01:49,000 | INFO | 1956 | Case | 230 Farm Tractor -> 0 rows
+2026-05-06 05:01:50,002 | INFO | 1956 | Case | 310 Crawler Dozer -> 0 rows
+2026-05-06 05:01:51,006 | INFO | 1956 | Case | 500 Tractor -> 0 rows
+2026-05-06 05:01:51,511 | INFO | Make complete: 1956 / Case (combos=299 rows=0 failures=0)
+2026-05-06 05:01:52,193 | INFO | 1956 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:01:53,713 | INFO | 1956 | Chevrolet | Corvette -> 0 rows
+2026-05-06 05:01:54,711 | INFO | 1956 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:01:55,217 | INFO | Make complete: 1956 / Chevrolet (combos=302 rows=0 failures=0)
+2026-05-06 05:01:55,965 | INFO | 1956 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:01:56,471 | INFO | Make complete: 1956 / Cockshutt (combos=303 rows=0 failures=0)
+2026-05-06 05:01:57,182 | INFO | 1956 | Dodge | Coronet -> 0 rows
+2026-05-06 05:01:57,686 | INFO | Make complete: 1956 / Dodge (combos=304 rows=0 failures=0)
+2026-05-06 05:01:58,425 | INFO | 1956 | Ford | Club -> 0 rows
+2026-05-06 05:01:59,930 | INFO | 1956 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:02:01,444 | INFO | 1956 | Ford | Country Squire -> 0 rows
+2026-05-06 05:02:02,468 | INFO | 1956 | Ford | Courier Sedan Delivery -> 0 rows
+2026-05-06 05:02:03,461 | INFO | 1956 | Ford | F-100 -> 0 rows
+2026-05-06 05:02:04,467 | INFO | 1956 | Ford | F-250 -> 0 rows
+2026-05-06 05:02:05,460 | INFO | 1956 | Ford | F-350 -> 0 rows
+2026-05-06 05:02:07,045 | INFO | 1956 | Ford | Fairlane -> 0 rows
+2026-05-06 05:02:08,558 | INFO | 1956 | Ford | Mainline -> 0 rows
+2026-05-06 05:02:09,573 | INFO | 1956 | Ford | P-350 -> 0 rows
+2026-05-06 05:02:10,581 | INFO | 1956 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:02:11,609 | INFO | 1956 | Ford | Sunliner -> 0 rows
+2026-05-06 05:02:12,636 | INFO | 1956 | Ford | Thunderbird -> 0 rows
+2026-05-06 05:02:13,684 | INFO | 1956 | Ford | Victoria -> 0 rows
+2026-05-06 05:02:14,186 | INFO | Make complete: 1956 / Ford (combos=318 rows=0 failures=0)
+2026-05-06 05:02:14,934 | INFO | 1956 | Jeep | Willys -> 0 rows
+2026-05-06 05:02:15,440 | INFO | Make complete: 1956 / Jeep (combos=319 rows=0 failures=0)
+2026-05-06 05:02:16,172 | INFO | 1956 | Mercedes-Benz | 190SL -> 0 rows
+2026-05-06 05:02:17,691 | INFO | 1956 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:02:19,221 | INFO | 1956 | Mercedes-Benz | 220S -> 0 rows
+2026-05-06 05:02:19,727 | INFO | Make complete: 1956 / Mercedes-Benz (combos=322 rows=0 failures=0)
+2026-05-06 05:02:20,934 | INFO | 1956 | Mercury | Montclair -> 0 rows
+2026-05-06 05:02:21,957 | INFO | 1956 | Mercury | Monterey -> 0 rows
+2026-05-06 05:02:22,461 | INFO | Make complete: 1956 / Mercury (combos=324 rows=0 failures=0)
+2026-05-06 05:02:23,774 | INFO | 1956 | MG | MGA -> 0 rows
+2026-05-06 05:02:24,281 | INFO | Make complete: 1956 / MG (combos=325 rows=0 failures=0)
+2026-05-06 05:02:25,559 | INFO | 1956 | Pontiac | Laurentian -> 0 rows
+2026-05-06 05:02:26,066 | INFO | Make complete: 1956 / Pontiac (combos=326 rows=0 failures=0)
+2026-05-06 05:02:27,079 | INFO | 1956 | Studebaker | Commander -> 0 rows
+2026-05-06 05:02:28,127 | INFO | 1956 | Studebaker | Power Hawk -> 0 rows
+2026-05-06 05:02:29,690 | INFO | 1956 | Studebaker | President -> 0 rows
+2026-05-06 05:02:31,263 | INFO | 1956 | Studebaker | Sky Hawk -> 0 rows
+2026-05-06 05:02:31,769 | INFO | Make complete: 1956 / Studebaker (combos=330 rows=0 failures=0)
+2026-05-06 05:02:33,030 | INFO | 1956 | Volkswagen | Beetle -> 0 rows
+2026-05-06 05:02:34,526 | INFO | 1956 | Volkswagen | Karmann Ghia -> 0 rows
+2026-05-06 05:02:35,563 | INFO | 1956 | Volkswagen | Transporter -> 0 rows
+2026-05-06 05:02:36,068 | INFO | Make complete: 1956 / Volkswagen (combos=333 rows=0 failures=0)
+2026-05-06 05:02:37,474 | INFO | 1955 | Austin Healey | 100 -> 0 rows
+2026-05-06 05:02:37,976 | INFO | Make complete: 1955 / Austin Healey (combos=334 rows=0 failures=0)
+2026-05-06 05:02:39,214 | INFO | 1955 | Buick | Century -> 0 rows
+2026-05-06 05:02:39,717 | INFO | Make complete: 1955 / Buick (combos=335 rows=0 failures=0)
+2026-05-06 05:02:40,953 | INFO | 1955 | Cadillac | DeVille -> 0 rows
+2026-05-06 05:02:41,961 | INFO | 1955 | Cadillac | Eldorado -> 0 rows
+2026-05-06 05:02:42,990 | INFO | 1955 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:02:44,008 | INFO | 1955 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:02:44,513 | INFO | Make complete: 1955 / Cadillac (combos=339 rows=0 failures=0)
+2026-05-06 05:02:45,836 | INFO | 1955 | Case | 220 Farm Tractor -> 0 rows
+2026-05-06 05:02:47,352 | INFO | 1955 | Case | 230 Farm Tractor -> 0 rows
+2026-05-06 05:02:48,362 | INFO | 1955 | Case | 500 Tractor -> 0 rows
+2026-05-06 05:02:48,868 | INFO | Make complete: 1955 / Case (combos=342 rows=0 failures=0)
+2026-05-06 05:02:49,684 | INFO | 1955 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:02:50,761 | INFO | 1955 | Chevrolet | Corvette -> 0 rows
+2026-05-06 05:02:51,807 | INFO | 1955 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:02:52,312 | INFO | Make complete: 1955 / Chevrolet (combos=345 rows=0 failures=0)
+2026-05-06 05:02:53,132 | INFO | 1955 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:02:53,639 | INFO | Make complete: 1955 / Cockshutt (combos=346 rows=0 failures=0)
+2026-05-06 05:02:54,635 | INFO | 1955 | Dodge | Coronet -> 0 rows
+2026-05-06 05:02:55,138 | INFO | Make complete: 1955 / Dodge (combos=347 rows=0 failures=0)
+2026-05-06 05:02:56,034 | INFO | 1955 | Ford | Mainline -> 0 rows
+2026-05-06 05:02:57,577 | INFO | 1955 | Ford | Thunderbird -> 0 rows
+2026-05-06 05:02:58,083 | INFO | Make complete: 1955 / Ford (combos=349 rows=0 failures=0)
+2026-05-06 05:02:59,490 | INFO | 1955 | Jeep | Willys -> 0 rows
+2026-05-06 05:02:59,996 | INFO | Make complete: 1955 / Jeep (combos=350 rows=0 failures=0)
+2026-05-06 05:03:00,869 | INFO | 1955 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:03:01,380 | INFO | Make complete: 1955 / Mercedes-Benz (combos=351 rows=0 failures=0)
+2026-05-06 05:03:02,616 | INFO | 1955 | Mercury | Montclair -> 0 rows
+2026-05-06 05:03:04,175 | INFO | 1955 | Mercury | Monterey -> 0 rows
+2026-05-06 05:03:04,683 | INFO | Make complete: 1955 / Mercury (combos=353 rows=0 failures=0)
+2026-05-06 05:03:05,938 | INFO | 1955 | Pontiac | Laurentian -> 0 rows
+2026-05-06 05:03:06,445 | INFO | Make complete: 1955 / Pontiac (combos=354 rows=0 failures=0)
+2026-05-06 05:03:07,721 | INFO | 1955 | Studebaker | Commander -> 0 rows
+2026-05-06 05:03:09,277 | INFO | 1955 | Studebaker | President -> 0 rows
+2026-05-06 05:03:09,788 | INFO | Make complete: 1955 / Studebaker (combos=356 rows=0 failures=0)
+2026-05-06 05:03:11,144 | INFO | 1955 | Volkswagen | Beetle -> 0 rows
+2026-05-06 05:03:12,683 | INFO | 1955 | Volkswagen | Transporter -> 0 rows
+2026-05-06 05:03:13,193 | INFO | Make complete: 1955 / Volkswagen (combos=358 rows=0 failures=0)
+2026-05-06 05:03:14,341 | INFO | 1954 | Austin Healey | 100 -> 0 rows
+2026-05-06 05:03:14,845 | INFO | Make complete: 1954 / Austin Healey (combos=359 rows=0 failures=0)
+2026-05-06 05:03:16,081 | INFO | 1954 | Buick | Century -> 0 rows
+2026-05-06 05:03:17,136 | INFO | 1954 | Buick | Skylark -> 0 rows
+2026-05-06 05:03:17,646 | INFO | Make complete: 1954 / Buick (combos=361 rows=0 failures=0)
+2026-05-06 05:03:18,361 | INFO | 1954 | Cadillac | DeVille -> 0 rows
+2026-05-06 05:03:19,951 | INFO | 1954 | Cadillac | Eldorado -> 0 rows
+2026-05-06 05:03:21,460 | INFO | 1954 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:03:22,488 | INFO | 1954 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:03:22,996 | INFO | Make complete: 1954 / Cadillac (combos=365 rows=0 failures=0)
+2026-05-06 05:03:23,721 | INFO | 1954 | Case | 500 Tractor -> 0 rows
+2026-05-06 05:03:24,227 | INFO | Make complete: 1954 / Case (combos=366 rows=0 failures=0)
+2026-05-06 05:03:24,944 | INFO | 1954 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:03:25,993 | INFO | 1954 | Chevrolet | Corvette -> 0 rows
+2026-05-06 05:03:27,113 | INFO | 1954 | Chevrolet | One-Fifty Series -> 0 rows
+2026-05-06 05:03:28,153 | INFO | 1954 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:03:29,273 | INFO | 1954 | Chevrolet | Two-Ten Series -> 0 rows
+2026-05-06 05:03:29,776 | INFO | Make complete: 1954 / Chevrolet (combos=371 rows=0 failures=0)
+2026-05-06 05:03:30,495 | INFO | 1954 | Chrysler | Windsor -> 0 rows
+2026-05-06 05:03:31,001 | INFO | Make complete: 1954 / Chrysler (combos=372 rows=0 failures=0)
+2026-05-06 05:03:31,732 | INFO | 1954 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:03:32,237 | INFO | Make complete: 1954 / Cockshutt (combos=373 rows=0 failures=0)
+2026-05-06 05:03:33,043 | INFO | 1954 | DeSoto | Powermaster -> 0 rows
+2026-05-06 05:03:33,557 | INFO | Make complete: 1954 / DeSoto (combos=374 rows=0 failures=0)
+2026-05-06 05:03:34,328 | INFO | 1954 | Dodge | Coronet -> 0 rows
+2026-05-06 05:03:35,359 | INFO | 1954 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:03:35,868 | INFO | Make complete: 1954 / Dodge (combos=376 rows=0 failures=0)
+2026-05-06 05:03:36,602 | INFO | 1954 | Jeep | Willys -> 0 rows
+2026-05-06 05:03:37,112 | INFO | Make complete: 1954 / Jeep (combos=377 rows=0 failures=0)
+2026-05-06 05:03:37,827 | INFO | 1954 | Mercury | Custom -> 0 rows
+2026-05-06 05:03:38,334 | INFO | Make complete: 1954 / Mercury (combos=378 rows=0 failures=0)
+2026-05-06 05:03:39,944 | INFO | 1954 | Plymouth | Belvedere -> 0 rows
+2026-05-06 05:03:40,449 | INFO | Make complete: 1954 / Plymouth (combos=379 rows=0 failures=0)
+2026-05-06 05:03:41,729 | INFO | 1954 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:03:43,252 | INFO | 1954 | Pontiac | Star Chief -> 0 rows
+2026-05-06 05:03:43,763 | INFO | Make complete: 1954 / Pontiac (combos=381 rows=0 failures=0)
+2026-05-06 05:03:45,336 | INFO | 1953 | Austin Healey | 100 -> 0 rows
+2026-05-06 05:03:45,843 | INFO | Make complete: 1953 / Austin Healey (combos=382 rows=0 failures=0)
+2026-05-06 05:03:46,601 | INFO | 1953 | Buick | Special -> 0 rows
+2026-05-06 05:03:47,102 | INFO | Make complete: 1953 / Buick (combos=383 rows=0 failures=0)
+2026-05-06 05:03:47,848 | INFO | 1953 | Cadillac | DeVille -> 0 rows
+2026-05-06 05:03:49,615 | INFO | 1953 | Cadillac | Eldorado -> 0 rows
+2026-05-06 05:03:50,687 | INFO | 1953 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:03:51,726 | INFO | 1953 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:03:52,237 | INFO | Make complete: 1953 / Cadillac (combos=387 rows=0 failures=0)
+2026-05-06 05:03:53,484 | INFO | 1953 | Case | 500 Tractor -> 0 rows
+2026-05-06 05:03:53,993 | INFO | Make complete: 1953 / Case (combos=388 rows=0 failures=0)
+2026-05-06 05:03:54,735 | INFO | 1953 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:03:55,756 | INFO | 1953 | Chevrolet | Corvette -> 0 rows
+2026-05-06 05:03:56,825 | INFO | 1953 | Chevrolet | One-Fifty Series -> 0 rows
+2026-05-06 05:03:57,852 | INFO | 1953 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:03:58,873 | INFO | 1953 | Chevrolet | Two-Ten Series -> 0 rows
+2026-05-06 05:03:59,376 | INFO | Make complete: 1953 / Chevrolet (combos=393 rows=0 failures=0)
+2026-05-06 05:04:00,211 | INFO | 1953 | Chrysler | Windsor -> 0 rows
+2026-05-06 05:04:00,721 | INFO | Make complete: 1953 / Chrysler (combos=394 rows=0 failures=0)
+2026-05-06 05:04:01,579 | INFO | 1953 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:04:02,087 | INFO | Make complete: 1953 / Cockshutt (combos=395 rows=0 failures=0)
+2026-05-06 05:04:02,934 | INFO | 1953 | DeSoto | Powermaster -> 0 rows
+2026-05-06 05:04:03,443 | INFO | Make complete: 1953 / DeSoto (combos=396 rows=0 failures=0)
+2026-05-06 05:04:04,794 | INFO | 1953 | Dodge | Coronet -> 0 rows
+2026-05-06 05:04:06,321 | INFO | 1953 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:04:06,832 | INFO | Make complete: 1953 / Dodge (combos=398 rows=0 failures=0)
+2026-05-06 05:04:08,071 | INFO | 1953 | Ford | Club -> 0 rows
+2026-05-06 05:04:09,083 | INFO | 1953 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:04:10,091 | INFO | 1953 | Ford | Country Squire -> 0 rows
+2026-05-06 05:04:11,636 | INFO | 1953 | Ford | Crestline -> 0 rows
+2026-05-06 05:04:13,183 | INFO | 1953 | Ford | Customline -> 0 rows
+2026-05-06 05:04:14,731 | INFO | 1953 | Ford | F-100 -> 0 rows
+2026-05-06 05:04:16,274 | INFO | 1953 | Ford | F-250 -> 0 rows
+2026-05-06 05:04:17,822 | INFO | 1953 | Ford | F-350 -> 0 rows
+2026-05-06 05:04:18,862 | INFO | 1953 | Ford | Mainline -> 0 rows
+2026-05-06 05:04:19,861 | INFO | 1953 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:04:20,942 | INFO | 1953 | Ford | Sunliner -> 0 rows
+2026-05-06 05:04:21,958 | INFO | 1953 | Ford | Victoria -> 0 rows
+2026-05-06 05:04:22,468 | INFO | Make complete: 1953 / Ford (combos=410 rows=0 failures=0)
+2026-05-06 05:04:23,247 | INFO | 1953 | GMC | 102-22 -> 0 rows
+2026-05-06 05:04:24,262 | INFO | 1953 | GMC | P150-22 -> 0 rows
+2026-05-06 05:04:25,289 | INFO | 1953 | GMC | PM150 -> 0 rows
+2026-05-06 05:04:26,303 | INFO | 1953 | GMC | PM150-22 -> 0 rows
+2026-05-06 05:04:27,337 | INFO | 1953 | GMC | PM150-24 -> 0 rows
+2026-05-06 05:04:28,359 | INFO | 1953 | GMC | PM152-22 -> 0 rows
+2026-05-06 05:04:29,403 | INFO | 1953 | GMC | PM252 -> 0 rows
+2026-05-06 05:04:30,436 | INFO | 1953 | GMC | PM253 -> 0 rows
+2026-05-06 05:04:31,453 | INFO | 1953 | GMC | Truck -> 0 rows
+2026-05-06 05:04:31,958 | INFO | Make complete: 1953 / GMC (combos=419 rows=0 failures=0)
+2026-05-06 05:04:33,297 | INFO | 1953 | Jeep | Willys -> 0 rows
+2026-05-06 05:04:33,801 | INFO | Make complete: 1953 / Jeep (combos=420 rows=0 failures=0)
+2026-05-06 05:04:34,707 | INFO | 1953 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:04:35,209 | INFO | Make complete: 1953 / Mercedes-Benz (combos=421 rows=0 failures=0)
+2026-05-06 05:04:36,429 | INFO | 1953 | Plymouth | Cranbrook -> 0 rows
+2026-05-06 05:04:36,934 | INFO | Make complete: 1953 / Plymouth (combos=422 rows=0 failures=0)
+2026-05-06 05:04:38,242 | INFO | 1953 | Pontiac | Catalina -> 0 rows
+2026-05-06 05:04:39,224 | INFO | 1953 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:04:39,726 | INFO | Make complete: 1953 / Pontiac (combos=424 rows=0 failures=0)
+2026-05-06 05:04:41,209 | INFO | 1952 | Buick | Roadmaster -> 0 rows
+2026-05-06 05:04:42,251 | INFO | 1952 | Buick | Special -> 0 rows
+2026-05-06 05:04:43,264 | INFO | 1952 | Buick | Super -> 0 rows
+2026-05-06 05:04:43,775 | INFO | Make complete: 1952 / Buick (combos=427 rows=0 failures=0)
+2026-05-06 05:04:45,088 | INFO | 1952 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:04:46,155 | INFO | 1952 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:04:47,720 | INFO | 1952 | Cadillac | Series 75 Fleetwood -> 0 rows
+2026-05-06 05:04:48,223 | INFO | Make complete: 1952 / Cadillac (combos=430 rows=0 failures=0)
+2026-05-06 05:04:49,471 | INFO | 1952 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:04:50,493 | INFO | 1952 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:04:52,018 | INFO | 1952 | Chevrolet | Styleline Deluxe -> 0 rows
+2026-05-06 05:04:53,037 | INFO | 1952 | Chevrolet | Styleline Special -> 0 rows
+2026-05-06 05:04:54,069 | INFO | 1952 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:04:54,579 | INFO | Make complete: 1952 / Chevrolet (combos=435 rows=0 failures=0)
+2026-05-06 05:04:55,352 | INFO | 1952 | Chrysler | Windsor -> 0 rows
+2026-05-06 05:04:55,859 | INFO | Make complete: 1952 / Chrysler (combos=436 rows=0 failures=0)
+2026-05-06 05:04:56,637 | INFO | 1952 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:04:57,147 | INFO | Make complete: 1952 / Cockshutt (combos=437 rows=0 failures=0)
+2026-05-06 05:04:57,878 | INFO | 1952 | Dodge | Coronet -> 0 rows
+2026-05-06 05:04:58,898 | INFO | 1952 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:04:59,981 | INFO | 1952 | Dodge | Wayfarer -> 0 rows
+2026-05-06 05:05:00,490 | INFO | Make complete: 1952 / Dodge (combos=440 rows=0 failures=0)
+2026-05-06 05:05:01,266 | INFO | 1952 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:05:02,810 | INFO | 1952 | Ford | Country Squire -> 0 rows
+2026-05-06 05:05:03,858 | INFO | 1952 | Ford | Crestline -> 0 rows
+2026-05-06 05:05:04,878 | INFO | 1952 | Ford | Custom -> 0 rows
+2026-05-06 05:05:05,915 | INFO | 1952 | Ford | Customline -> 0 rows
+2026-05-06 05:05:07,010 | INFO | 1952 | Ford | Mainline -> 0 rows
+2026-05-06 05:05:08,027 | INFO | 1952 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:05:09,114 | INFO | 1952 | Ford | Sunliner -> 0 rows
+2026-05-06 05:05:10,125 | INFO | 1952 | Ford | Victoria -> 0 rows
+2026-05-06 05:05:10,633 | INFO | Make complete: 1952 / Ford (combos=449 rows=0 failures=0)
+2026-05-06 05:05:11,347 | INFO | 1952 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:05:12,893 | INFO | 1952 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:05:13,403 | INFO | Make complete: 1952 / Ford Industrial / Agricultural (combos=451 rows=0 failures=0)
+2026-05-06 05:05:14,242 | INFO | 1952 | GMC | 102-22 -> 0 rows
+2026-05-06 05:05:15,241 | INFO | 1952 | GMC | P150-22 -> 0 rows
+2026-05-06 05:05:16,278 | INFO | 1952 | GMC | PM150-22 -> 0 rows
+2026-05-06 05:05:17,424 | INFO | 1952 | GMC | PM150-24 -> 0 rows
+2026-05-06 05:05:18,495 | INFO | 1952 | GMC | PM152 -> 0 rows
+2026-05-06 05:05:19,573 | INFO | 1952 | GMC | PM152-22 -> 0 rows
+2026-05-06 05:05:20,786 | INFO | 1952 | GMC | PM252 -> 0 rows
+2026-05-06 05:05:21,829 | INFO | 1952 | GMC | PM253 -> 0 rows
+2026-05-06 05:05:23,472 | INFO | 1952 | GMC | Truck -> 0 rows
+2026-05-06 05:05:23,979 | INFO | Make complete: 1952 / GMC (combos=460 rows=0 failures=0)
+2026-05-06 05:05:24,781 | INFO | 1952 | Jeep | Willys -> 0 rows
+2026-05-06 05:05:25,288 | INFO | Make complete: 1952 / Jeep (combos=461 rows=0 failures=0)
+2026-05-06 05:05:26,040 | INFO | 1952 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:05:26,542 | INFO | Make complete: 1952 / Mercedes-Benz (combos=462 rows=0 failures=0)
+2026-05-06 05:05:27,254 | INFO | 1952 | Oldsmobile | 98 -> 0 rows
+2026-05-06 05:05:28,803 | INFO | 1952 | Oldsmobile | Deluxe 88 -> 0 rows
+2026-05-06 05:05:29,808 | INFO | 1952 | Oldsmobile | Super 88 -> 0 rows
+2026-05-06 05:05:30,317 | INFO | Make complete: 1952 / Oldsmobile (combos=465 rows=0 failures=0)
+2026-05-06 05:05:31,036 | INFO | 1952 | Plymouth | Concord -> 0 rows
+2026-05-06 05:05:32,041 | INFO | 1952 | Plymouth | Cranbrook -> 0 rows
+2026-05-06 05:05:32,549 | INFO | Make complete: 1952 / Plymouth (combos=467 rows=0 failures=0)
+2026-05-06 05:05:33,249 | INFO | 1952 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:05:33,751 | INFO | Make complete: 1952 / Pontiac (combos=468 rows=0 failures=0)
+2026-05-06 05:05:34,700 | INFO | 1951 | Buick | Roadmaster -> 0 rows
+2026-05-06 05:05:35,699 | INFO | 1951 | Buick | Special -> 0 rows
+2026-05-06 05:05:37,245 | INFO | 1951 | Buick | Super -> 0 rows
+2026-05-06 05:05:37,751 | INFO | Make complete: 1951 / Buick (combos=471 rows=0 failures=0)
+2026-05-06 05:05:38,519 | INFO | 1951 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:05:40,159 | INFO | 1951 | Cadillac | Series 61 -> 0 rows
+2026-05-06 05:05:41,695 | INFO | 1951 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:05:43,241 | INFO | 1951 | Cadillac | Series 75 Fleetwood -> 0 rows
+2026-05-06 05:05:43,746 | INFO | Make complete: 1951 / Cadillac (combos=475 rows=0 failures=0)
+2026-05-06 05:05:45,033 | INFO | 1951 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:05:46,630 | INFO | 1951 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:05:47,673 | INFO | 1951 | Chevrolet | Styleline Deluxe -> 0 rows
+2026-05-06 05:05:48,667 | INFO | 1951 | Chevrolet | Styleline Special -> 0 rows
+2026-05-06 05:05:49,718 | INFO | 1951 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:05:50,225 | INFO | Make complete: 1951 / Chevrolet (combos=480 rows=0 failures=0)
+2026-05-06 05:05:50,950 | INFO | 1951 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:05:51,450 | INFO | Make complete: 1951 / Cockshutt (combos=481 rows=0 failures=0)
+2026-05-06 05:05:52,296 | INFO | 1951 | Dodge | Coronet -> 0 rows
+2026-05-06 05:05:53,332 | INFO | 1951 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:05:54,922 | INFO | 1951 | Dodge | Wayfarer -> 0 rows
+2026-05-06 05:05:55,425 | INFO | Make complete: 1951 / Dodge (combos=484 rows=0 failures=0)
+2026-05-06 05:05:56,264 | INFO | 1951 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:05:57,818 | INFO | 1951 | Ford | Country Squire -> 0 rows
+2026-05-06 05:05:58,856 | INFO | 1951 | Ford | Crestline -> 0 rows
+2026-05-06 05:05:59,957 | INFO | 1951 | Ford | Custom -> 0 rows
+2026-05-06 05:06:01,502 | INFO | 1951 | Ford | Deluxe -> 0 rows
+2026-05-06 05:06:02,584 | INFO | 1951 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:06:03,604 | INFO | 1951 | Ford | Victoria -> 0 rows
+2026-05-06 05:06:04,111 | INFO | Make complete: 1951 / Ford (combos=491 rows=0 failures=0)
+2026-05-06 05:06:04,835 | INFO | 1951 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:06:05,831 | INFO | 1951 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:06:06,333 | INFO | Make complete: 1951 / Ford Industrial / Agricultural (combos=493 rows=0 failures=0)
+2026-05-06 05:06:07,030 | INFO | 1951 | GMC | P150-22 -> 0 rows
+2026-05-06 05:06:08,164 | INFO | 1951 | GMC | P152 -> 0 rows
+2026-05-06 05:06:09,249 | INFO | 1951 | GMC | P252 -> 0 rows
+2026-05-06 05:06:10,278 | INFO | 1951 | GMC | P253 -> 0 rows
+2026-05-06 05:06:11,807 | INFO | 1951 | GMC | Truck -> 0 rows
+2026-05-06 05:06:12,311 | INFO | Make complete: 1951 / GMC (combos=498 rows=0 failures=0)
+2026-05-06 05:06:13,540 | INFO | 1951 | Jeep | Willys -> 0 rows
+2026-05-06 05:06:14,045 | INFO | Make complete: 1951 / Jeep (combos=499 rows=0 failures=0)
+2026-05-06 05:06:14,808 | INFO | 1951 | Mercedes-Benz | 220 -> 0 rows
+2026-05-06 05:06:15,318 | INFO | Make complete: 1951 / Mercedes-Benz (combos=500 rows=0 failures=0)
+2026-05-06 05:06:16,056 | INFO | 1951 | Oldsmobile | 98 -> 0 rows
+2026-05-06 05:06:17,111 | INFO | 1951 | Oldsmobile | Deluxe 88 -> 0 rows
+2026-05-06 05:06:18,136 | INFO | 1951 | Oldsmobile | Standard 88 -> 0 rows
+2026-05-06 05:06:19,184 | INFO | 1951 | Oldsmobile | Super 88 -> 0 rows
+2026-05-06 05:06:19,696 | INFO | Make complete: 1951 / Oldsmobile (combos=504 rows=0 failures=0)
+2026-05-06 05:06:20,989 | INFO | 1951 | Plymouth | Concord -> 0 rows
+2026-05-06 05:06:21,995 | INFO | 1951 | Plymouth | Cranbrook -> 0 rows
+2026-05-06 05:06:22,502 | INFO | Make complete: 1951 / Plymouth (combos=506 rows=0 failures=0)
+2026-05-06 05:06:23,300 | INFO | 1951 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:06:24,310 | INFO | 1951 | Pontiac | Streamliner -> 0 rows
+2026-05-06 05:06:24,813 | INFO | Make complete: 1951 / Pontiac (combos=508 rows=0 failures=0)
+2026-05-06 05:06:25,748 | INFO | 1950 | Buick | Roadmaster -> 0 rows
+2026-05-06 05:06:26,745 | INFO | 1950 | Buick | Special -> 0 rows
+2026-05-06 05:06:27,782 | INFO | 1950 | Buick | Super -> 0 rows
+2026-05-06 05:06:28,284 | INFO | Make complete: 1950 / Buick (combos=511 rows=0 failures=0)
+2026-05-06 05:06:29,073 | INFO | 1950 | Cadillac | Series 60 Fleetwood -> 0 rows
+2026-05-06 05:06:30,077 | INFO | 1950 | Cadillac | Series 61 -> 0 rows
+2026-05-06 05:06:31,119 | INFO | 1950 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:06:32,130 | INFO | 1950 | Cadillac | Series 75 Fleetwood -> 0 rows
+2026-05-06 05:06:32,632 | INFO | Make complete: 1950 / Cadillac (combos=515 rows=0 failures=0)
+2026-05-06 05:06:33,360 | INFO | 1950 | Chevrolet | Bel Air -> 0 rows
+2026-05-06 05:06:34,370 | INFO | 1950 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:06:35,375 | INFO | 1950 | Chevrolet | Styleline Deluxe -> 0 rows
+2026-05-06 05:06:36,392 | INFO | 1950 | Chevrolet | Styleline Special -> 0 rows
+2026-05-06 05:06:37,420 | INFO | 1950 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:06:37,934 | INFO | Make complete: 1950 / Chevrolet (combos=520 rows=0 failures=0)
+2026-05-06 05:06:39,104 | INFO | 1950 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:06:39,615 | INFO | Make complete: 1950 / Cockshutt (combos=521 rows=0 failures=0)
+2026-05-06 05:06:40,352 | INFO | 1950 | Dodge | Coronet -> 0 rows
+2026-05-06 05:06:41,386 | INFO | 1950 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:06:42,781 | INFO | 1950 | Dodge | Wayfarer -> 0 rows
+2026-05-06 05:06:43,286 | INFO | Make complete: 1950 / Dodge (combos=524 rows=0 failures=0)
+2026-05-06 05:06:44,080 | INFO | 1950 | Ford | Country Sedan -> 0 rows
+2026-05-06 05:06:45,751 | INFO | 1950 | Ford | Country Squire -> 0 rows
+2026-05-06 05:06:47,319 | INFO | 1950 | Ford | Crestline -> 0 rows
+2026-05-06 05:06:48,354 | INFO | 1950 | Ford | Custom -> 0 rows
+2026-05-06 05:06:49,895 | INFO | 1950 | Ford | Deluxe -> 0 rows
+2026-05-06 05:06:50,930 | INFO | 1950 | Ford | Ranch Wagon -> 0 rows
+2026-05-06 05:06:51,434 | INFO | Make complete: 1950 / Ford (combos=530 rows=0 failures=0)
+2026-05-06 05:06:52,177 | INFO | 1950 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:06:53,190 | INFO | 1950 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:06:53,702 | INFO | Make complete: 1950 / Ford Industrial / Agricultural (combos=532 rows=0 failures=0)
+2026-05-06 05:06:54,427 | INFO | 1950 | GMC | P152 -> 0 rows
+2026-05-06 05:06:55,948 | INFO | 1950 | GMC | Truck -> 0 rows
+2026-05-06 05:06:56,457 | INFO | Make complete: 1950 / GMC (combos=534 rows=0 failures=0)
+2026-05-06 05:06:57,203 | INFO | 1950 | Jeep | Willys -> 0 rows
+2026-05-06 05:06:57,708 | INFO | Make complete: 1950 / Jeep (combos=535 rows=0 failures=0)
+2026-05-06 05:06:58,430 | INFO | 1950 | Oldsmobile | 88 -> 0 rows
+2026-05-06 05:06:59,465 | INFO | 1950 | Oldsmobile | 98 -> 0 rows
+2026-05-06 05:07:01,013 | INFO | 1950 | Oldsmobile | Series 76 -> 0 rows
+2026-05-06 05:07:01,516 | INFO | Make complete: 1950 / Oldsmobile (combos=538 rows=0 failures=0)
+2026-05-06 05:07:02,246 | INFO | 1950 | Plymouth | Deluxe -> 0 rows
+2026-05-06 05:07:03,273 | INFO | 1950 | Plymouth | Special Deluxe -> 0 rows
+2026-05-06 05:07:03,784 | INFO | Make complete: 1950 / Plymouth (combos=540 rows=0 failures=0)
+2026-05-06 05:07:04,772 | INFO | 1950 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:07:06,313 | INFO | 1950 | Pontiac | Streamliner -> 0 rows
+2026-05-06 05:07:06,819 | INFO | Make complete: 1950 / Pontiac (combos=542 rows=0 failures=0)
+2026-05-06 05:07:07,833 | INFO | 1949 | Buick | Special Series 40 -> 0 rows
+2026-05-06 05:07:08,341 | INFO | Make complete: 1949 / Buick (combos=543 rows=0 failures=0)
+2026-05-06 05:07:09,326 | INFO | 1949 | Cadillac | Series 60 Special Fleetwood -> 0 rows
+2026-05-06 05:07:10,927 | INFO | 1949 | Cadillac | Series 61 -> 0 rows
+2026-05-06 05:07:12,511 | INFO | 1949 | Cadillac | Series 62 -> 0 rows
+2026-05-06 05:07:14,044 | INFO | 1949 | Cadillac | Series 75 Fleetwood -> 0 rows
+2026-05-06 05:07:14,550 | INFO | Make complete: 1949 / Cadillac (combos=547 rows=0 failures=0)
+2026-05-06 05:07:15,866 | INFO | 1949 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:07:17,394 | INFO | 1949 | Chevrolet | Styleline Deluxe -> 0 rows
+2026-05-06 05:07:18,892 | INFO | 1949 | Chevrolet | Styleline Special -> 0 rows
+2026-05-06 05:07:20,453 | INFO | 1949 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:07:20,962 | INFO | Make complete: 1949 / Chevrolet (combos=551 rows=0 failures=0)
+2026-05-06 05:07:22,340 | INFO | 1949 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:07:22,851 | INFO | Make complete: 1949 / Cockshutt (combos=552 rows=0 failures=0)
+2026-05-06 05:07:23,641 | INFO | 1949 | Dodge | Coronet -> 0 rows
+2026-05-06 05:07:24,673 | INFO | 1949 | Dodge | Meadowbrook -> 0 rows
+2026-05-06 05:07:25,679 | INFO | 1949 | Dodge | Wayfarer -> 0 rows
+2026-05-06 05:07:26,190 | INFO | Make complete: 1949 / Dodge (combos=555 rows=0 failures=0)
+2026-05-06 05:07:26,905 | INFO | 1949 | Ford | Custom -> 0 rows
+2026-05-06 05:07:28,444 | INFO | 1949 | Ford | Deluxe -> 0 rows
+2026-05-06 05:07:29,479 | INFO | 1949 | Ford | Ford -> 0 rows
+2026-05-06 05:07:29,985 | INFO | Make complete: 1949 / Ford (combos=558 rows=0 failures=0)
+2026-05-06 05:07:30,765 | INFO | 1949 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:07:32,406 | INFO | 1949 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:07:32,908 | INFO | Make complete: 1949 / Ford Industrial / Agricultural (combos=560 rows=0 failures=0)
+2026-05-06 05:07:33,738 | INFO | 1949 | Jeep | Willys -> 0 rows
+2026-05-06 05:07:34,249 | INFO | Make complete: 1949 / Jeep (combos=561 rows=0 failures=0)
+2026-05-06 05:07:35,035 | INFO | 1949 | Oldsmobile | Series 76 -> 0 rows
+2026-05-06 05:07:36,636 | INFO | 1949 | Oldsmobile | Series 78 -> 0 rows
+2026-05-06 05:07:37,641 | INFO | 1949 | Oldsmobile | Series 88 -> 0 rows
+2026-05-06 05:07:39,270 | INFO | 1949 | Oldsmobile | Series 98 -> 0 rows
+2026-05-06 05:07:39,779 | INFO | Make complete: 1949 / Oldsmobile (combos=565 rows=0 failures=0)
+2026-05-06 05:07:41,152 | INFO | 1949 | Plymouth | Deluxe -> 0 rows
+2026-05-06 05:07:42,884 | INFO | 1949 | Plymouth | Special Deluxe -> 0 rows
+2026-05-06 05:07:43,388 | INFO | Make complete: 1949 / Plymouth (combos=567 rows=0 failures=0)
+2026-05-06 05:07:44,668 | INFO | 1949 | Pontiac | Chieftain -> 0 rows
+2026-05-06 05:07:45,684 | INFO | 1949 | Pontiac | Streamliner -> 0 rows
+2026-05-06 05:07:46,195 | INFO | Make complete: 1949 / Pontiac (combos=569 rows=0 failures=0)
+2026-05-06 05:07:47,116 | INFO | 1948 | Buick | Special Series 40 -> 0 rows
+2026-05-06 05:07:47,618 | INFO | Make complete: 1948 / Buick (combos=570 rows=0 failures=0)
+2026-05-06 05:07:48,512 | INFO | 1948 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:07:50,136 | INFO | 1948 | Chevrolet | Fleetmaster -> 0 rows
+2026-05-06 05:07:51,675 | INFO | 1948 | Chevrolet | Stylemaster Series -> 0 rows
+2026-05-06 05:07:53,189 | INFO | 1948 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:07:53,699 | INFO | Make complete: 1948 / Chevrolet (combos=574 rows=0 failures=0)
+2026-05-06 05:07:55,252 | INFO | 1948 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:07:55,761 | INFO | Make complete: 1948 / Cockshutt (combos=575 rows=0 failures=0)
+2026-05-06 05:07:57,246 | INFO | 1948 | Dodge | Custom -> 0 rows
+2026-05-06 05:07:58,325 | INFO | 1948 | Dodge | Deluxe -> 0 rows
+2026-05-06 05:07:58,826 | INFO | Make complete: 1948 / Dodge (combos=577 rows=0 failures=0)
+2026-05-06 05:07:59,910 | INFO | 1948 | Ford | Deluxe -> 0 rows
+2026-05-06 05:08:00,982 | INFO | 1948 | Ford | Super Deluxe -> 0 rows
+2026-05-06 05:08:01,491 | INFO | Make complete: 1948 / Ford (combos=579 rows=0 failures=0)
+2026-05-06 05:08:02,216 | INFO | 1948 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:08:03,226 | INFO | 1948 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:08:03,736 | INFO | Make complete: 1948 / Ford Industrial / Agricultural (combos=581 rows=0 failures=0)
+2026-05-06 05:08:04,453 | INFO | 1948 | Jeep | Willys -> 0 rows
+2026-05-06 05:08:04,960 | INFO | Make complete: 1948 / Jeep (combos=582 rows=0 failures=0)
+2026-05-06 05:08:05,718 | INFO | 1948 | Mercury | Mercury -> 0 rows
+2026-05-06 05:08:06,227 | INFO | Make complete: 1948 / Mercury (combos=583 rows=0 failures=0)
+2026-05-06 05:08:07,185 | INFO | 1947 | Buick | Special Series 40 -> 0 rows
+2026-05-06 05:08:07,691 | INFO | Make complete: 1947 / Buick (combos=584 rows=0 failures=0)
+2026-05-06 05:08:08,399 | INFO | 1947 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:08:11,531 | INFO | 1947 | Chevrolet | Fleetmaster -> 0 rows
+2026-05-06 05:08:13,047 | INFO | 1947 | Chevrolet | Stylemaster Series -> 0 rows
+2026-05-06 05:08:14,598 | INFO | 1947 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:08:15,105 | INFO | Make complete: 1947 / Chevrolet (combos=588 rows=0 failures=0)
+2026-05-06 05:08:16,361 | INFO | 1947 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:08:16,867 | INFO | Make complete: 1947 / Cockshutt (combos=589 rows=0 failures=0)
+2026-05-06 05:08:17,625 | INFO | 1947 | Dodge | Custom -> 0 rows
+2026-05-06 05:08:19,155 | INFO | 1947 | Dodge | Deluxe -> 0 rows
+2026-05-06 05:08:19,668 | INFO | Make complete: 1947 / Dodge (combos=591 rows=0 failures=0)
+2026-05-06 05:08:21,106 | INFO | 1947 | Ford | Deluxe -> 0 rows
+2026-05-06 05:08:22,208 | INFO | 1947 | Ford | Super Deluxe -> 0 rows
+2026-05-06 05:08:22,717 | INFO | Make complete: 1947 / Ford (combos=593 rows=0 failures=0)
+2026-05-06 05:08:24,100 | INFO | 1947 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:08:25,899 | INFO | 1947 | Ford Industrial / Agricultural | 8N Tractor -> 0 rows
+2026-05-06 05:08:27,753 | INFO | 1947 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:08:28,264 | INFO | Make complete: 1947 / Ford Industrial / Agricultural (combos=596 rows=0 failures=0)
+2026-05-06 05:08:29,107 | INFO | 1947 | Jeep | Willys -> 0 rows
+2026-05-06 05:08:29,618 | INFO | Make complete: 1947 / Jeep (combos=597 rows=0 failures=0)
+2026-05-06 05:08:30,917 | INFO | 1947 | Mercury | Mercury -> 0 rows
+2026-05-06 05:08:31,426 | INFO | Make complete: 1947 / Mercury (combos=598 rows=0 failures=0)
+2026-05-06 05:08:32,373 | INFO | 1946 | Buick | Special Series 40 -> 0 rows
+2026-05-06 05:08:32,885 | INFO | Make complete: 1946 / Buick (combos=599 rows=0 failures=0)
+2026-05-06 05:08:33,658 | INFO | 1946 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:08:35,215 | INFO | 1946 | Chevrolet | Fleetmaster -> 0 rows
+2026-05-06 05:08:36,756 | INFO | 1946 | Chevrolet | Stylemaster Series -> 0 rows
+2026-05-06 05:08:38,304 | INFO | 1946 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:08:38,816 | INFO | Make complete: 1946 / Chevrolet (combos=603 rows=0 failures=0)
+2026-05-06 05:08:39,676 | INFO | 1946 | Cockshutt | 30 Row-Crop Tractor -> 0 rows
+2026-05-06 05:08:40,188 | INFO | Make complete: 1946 / Cockshutt (combos=604 rows=0 failures=0)
+2026-05-06 05:08:41,527 | INFO | 1946 | Dodge | Custom -> 0 rows
+2026-05-06 05:08:43,312 | INFO | 1946 | Dodge | Deluxe -> 0 rows
+2026-05-06 05:08:43,814 | INFO | Make complete: 1946 / Dodge (combos=606 rows=0 failures=0)
+2026-05-06 05:08:45,110 | INFO | 1946 | Ford | Deluxe -> 0 rows
+2026-05-06 05:08:46,677 | INFO | 1946 | Ford | Super Deluxe -> 0 rows
+2026-05-06 05:08:47,181 | INFO | Make complete: 1946 / Ford (combos=608 rows=0 failures=0)
+2026-05-06 05:08:47,912 | INFO | 1946 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:08:49,700 | INFO | 1946 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:08:50,203 | INFO | Make complete: 1946 / Ford Industrial / Agricultural (combos=610 rows=0 failures=0)
+2026-05-06 05:08:51,040 | INFO | 1946 | Jeep | Willys -> 0 rows
+2026-05-06 05:08:51,549 | INFO | Make complete: 1946 / Jeep (combos=611 rows=0 failures=0)
+2026-05-06 05:08:52,428 | INFO | 1946 | Mercury | Mercury -> 0 rows
+2026-05-06 05:08:52,939 | INFO | Make complete: 1946 / Mercury (combos=612 rows=0 failures=0)
+2026-05-06 05:08:54,651 | INFO | 1945 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:08:55,158 | INFO | Make complete: 1945 / Chevrolet (combos=613 rows=0 failures=0)
+2026-05-06 05:08:56,569 | INFO | 1945 | DeSoto | Custom -> 0 rows
+2026-05-06 05:08:57,608 | INFO | 1945 | DeSoto | Deluxe -> 0 rows
+2026-05-06 05:08:58,115 | INFO | Make complete: 1945 / DeSoto (combos=615 rows=0 failures=0)
+2026-05-06 05:08:59,012 | INFO | 1945 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:00,596 | INFO | 1945 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:01,109 | INFO | Make complete: 1945 / Ford Industrial / Agricultural (combos=617 rows=0 failures=0)
+2026-05-06 05:09:02,729 | INFO | 1945 | Jeep | Willys -> 0 rows
+2026-05-06 05:09:03,240 | INFO | Make complete: 1945 / Jeep (combos=618 rows=0 failures=0)
+2026-05-06 05:09:04,190 | INFO | 1944 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:09:04,699 | INFO | Make complete: 1944 / Chevrolet (combos=619 rows=0 failures=0)
+2026-05-06 05:09:05,743 | INFO | 1944 | DeSoto | Custom -> 0 rows
+2026-05-06 05:09:07,285 | INFO | 1944 | DeSoto | Deluxe -> 0 rows
+2026-05-06 05:09:07,791 | INFO | Make complete: 1944 / DeSoto (combos=621 rows=0 failures=0)
+2026-05-06 05:09:08,536 | INFO | 1944 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:10,043 | INFO | 1944 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:10,552 | INFO | Make complete: 1944 / Ford Industrial / Agricultural (combos=623 rows=0 failures=0)
+2026-05-06 05:09:11,362 | INFO | 1944 | Jeep | Willys -> 0 rows
+2026-05-06 05:09:11,867 | INFO | Make complete: 1944 / Jeep (combos=624 rows=0 failures=0)
+2026-05-06 05:09:13,377 | INFO | 1943 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:09:13,881 | INFO | Make complete: 1943 / Chevrolet (combos=625 rows=0 failures=0)
+2026-05-06 05:09:14,650 | INFO | 1943 | DeSoto | Custom -> 0 rows
+2026-05-06 05:09:15,647 | INFO | 1943 | DeSoto | Deluxe -> 0 rows
+2026-05-06 05:09:16,157 | INFO | Make complete: 1943 / DeSoto (combos=627 rows=0 failures=0)
+2026-05-06 05:09:16,928 | INFO | 1943 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:17,958 | INFO | 1943 | Ford Industrial / Agricultural | 9N Tractor -> 0 rows
+2026-05-06 05:09:18,996 | INFO | 1943 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:19,507 | INFO | Make complete: 1943 / Ford Industrial / Agricultural (combos=630 rows=0 failures=0)
+2026-05-06 05:09:20,251 | INFO | 1943 | Jeep | Willys -> 0 rows
+2026-05-06 05:09:20,763 | INFO | Make complete: 1943 / Jeep (combos=631 rows=0 failures=0)
+2026-05-06 05:09:21,700 | INFO | 1942 | Chevrolet | Fleetline -> 0 rows
+2026-05-06 05:09:23,272 | INFO | 1942 | Chevrolet | Fleetmaster -> 0 rows
+2026-05-06 05:09:24,279 | INFO | 1942 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:09:24,790 | INFO | Make complete: 1942 / Chevrolet (combos=634 rows=0 failures=0)
+2026-05-06 05:09:25,553 | INFO | 1942 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:27,086 | INFO | 1942 | Ford Industrial / Agricultural | 9N Tractor -> 0 rows
+2026-05-06 05:09:28,182 | INFO | 1942 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:28,693 | INFO | Make complete: 1942 / Ford Industrial / Agricultural (combos=637 rows=0 failures=0)
+2026-05-06 05:09:29,720 | INFO | 1941 | Chevrolet | Fleetmaster -> 0 rows
+2026-05-06 05:09:30,229 | INFO | Make complete: 1941 / Chevrolet (combos=638 rows=0 failures=0)
+2026-05-06 05:09:31,109 | INFO | 1941 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:32,631 | INFO | 1941 | Ford Industrial / Agricultural | 9N Tractor -> 0 rows
+2026-05-06 05:09:34,393 | INFO | 1941 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:34,897 | INFO | Make complete: 1941 / Ford Industrial / Agricultural (combos=641 rows=0 failures=0)
+2026-05-06 05:09:35,879 | INFO | 1940 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:36,901 | INFO | 1940 | Ford Industrial / Agricultural | 9N Tractor -> 0 rows
+2026-05-06 05:09:38,952 | INFO | 1940 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:39,454 | INFO | Make complete: 1940 / Ford Industrial / Agricultural (combos=644 rows=0 failures=0)
+2026-05-06 05:09:40,413 | INFO | 1939 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:41,897 | INFO | 1939 | Ford Industrial / Agricultural | 9N Tractor -> 0 rows
+2026-05-06 05:09:42,965 | INFO | 1939 | Ford Industrial / Agricultural | Various Tractor Models -> 0 rows
+2026-05-06 05:09:43,468 | INFO | Make complete: 1939 / Ford Industrial / Agricultural (combos=647 rows=0 failures=0)
+2026-05-06 05:09:44,487 | INFO | 1938 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:44,998 | INFO | Make complete: 1938 / Ford Industrial / Agricultural (combos=648 rows=0 failures=0)
+2026-05-06 05:09:46,034 | INFO | 1937 | Chevrolet | Truck -> 0 rows
+2026-05-06 05:09:46,545 | INFO | Make complete: 1937 / Chevrolet (combos=649 rows=0 failures=0)
+2026-05-06 05:09:47,270 | INFO | 1937 | Ford Industrial / Agricultural | 2N Tractor -> 0 rows
+2026-05-06 05:09:47,773 | INFO | Make complete: 1937 / Ford Industrial / Agricultural (combos=650 rows=0 failures=0)
+2026-05-06 05:09:48,685 | INFO | 1931 | Ford | Model A -> 0 rows
+2026-05-06 05:09:49,193 | INFO | Make complete: 1931 / Ford (combos=651 rows=0 failures=0)
+2026-05-06 05:09:50,127 | INFO | 1930 | Ford | Model A -> 0 rows
+2026-05-06 05:09:50,629 | INFO | Make complete: 1930 / Ford (combos=652 rows=0 failures=0)
+2026-05-06 05:09:51,348 | INFO | 1930 | Whippet | Model 96A -> 0 rows
+2026-05-06 05:09:52,355 | INFO | 1930 | Whippet | Model 98A -> 0 rows
+2026-05-06 05:09:52,865 | INFO | Make complete: 1930 / Whippet (combos=654 rows=0 failures=0)
+2026-05-06 05:09:53,899 | INFO | 1929 | Ford | Model A -> 0 rows
+2026-05-06 05:09:54,413 | INFO | Make complete: 1929 / Ford (combos=655 rows=0 failures=0)
+2026-05-06 05:09:55,335 | INFO | 1929 | Willys | Whippet Model 96A -> 0 rows
+2026-05-06 05:09:56,845 | INFO | 1929 | Willys | Whippet Model 98A -> 0 rows
+2026-05-06 05:09:57,348 | INFO | Make complete: 1929 / Willys (combos=657 rows=0 failures=0)
+2026-05-06 05:09:58,908 | INFO | 1928 | Buick | Standard Six -> 0 rows
+2026-05-06 05:09:59,416 | INFO | Make complete: 1928 / Buick (combos=658 rows=0 failures=0)
+2026-05-06 05:10:00,196 | INFO | 1928 | Chevrolet | Capitol Truck -> 0 rows
+2026-05-06 05:10:01,741 | INFO | 1928 | Chevrolet | National -> 0 rows
+2026-05-06 05:10:02,795 | INFO | 1928 | Chevrolet | National Truck -> 0 rows
+2026-05-06 05:10:03,298 | INFO | Make complete: 1928 / Chevrolet (combos=661 rows=0 failures=0)
+2026-05-06 05:10:04,131 | INFO | 1928 | Ford | Model A -> 0 rows
+2026-05-06 05:10:04,642 | INFO | Make complete: 1928 / Ford (combos=662 rows=0 failures=0)
+2026-05-06 05:10:06,069 | INFO | 1928 | Pontiac | Model 6-28 -> 0 rows
+2026-05-06 05:10:06,573 | INFO | Make complete: 1928 / Pontiac (combos=663 rows=0 failures=0)
+2026-05-06 05:10:07,280 | INFO | 1928 | Willys | Whippet Model 96 -> 0 rows
+2026-05-06 05:10:08,360 | INFO | 1928 | Willys | Whippet Model 98 -> 0 rows
+2026-05-06 05:10:08,871 | INFO | Make complete: 1928 / Willys (combos=665 rows=0 failures=0)
+2026-05-06 05:10:09,903 | INFO | 1927 | Chevrolet | Capitol -> 0 rows
+2026-05-06 05:10:10,909 | INFO | 1927 | Chevrolet | Capitol Truck -> 0 rows
+2026-05-06 05:10:11,411 | INFO | Make complete: 1927 / Chevrolet (combos=667 rows=0 failures=0)
+2026-05-06 05:10:12,146 | INFO | 1927 | Ford | Model T -> 0 rows
+2026-05-06 05:10:12,649 | INFO | Make complete: 1927 / Ford (combos=668 rows=0 failures=0)
+2026-05-06 05:10:13,420 | INFO | 1927 | Pontiac | Model 6-27 -> 0 rows
+2026-05-06 05:10:13,922 | INFO | Make complete: 1927 / Pontiac (combos=669 rows=0 failures=0)
+2026-05-06 05:10:14,628 | INFO | 1927 | Willys | Whippet Model 93A -> 0 rows
+2026-05-06 05:10:16,167 | INFO | 1927 | Willys | Whippet Model 96 -> 0 rows
+2026-05-06 05:10:16,669 | INFO | Make complete: 1927 / Willys (combos=671 rows=0 failures=0)
+2026-05-06 05:10:17,635 | INFO | 1926 | Chevrolet | Superior -> 0 rows
+2026-05-06 05:10:18,753 | INFO | 1926 | Chevrolet | Superior Truck -> 0 rows
+2026-05-06 05:10:19,258 | INFO | Make complete: 1926 / Chevrolet (combos=673 rows=0 failures=0)
+2026-05-06 05:10:20,033 | INFO | 1926 | Ford | Model T -> 0 rows
+2026-05-06 05:10:20,542 | INFO | Make complete: 1926 / Ford (combos=674 rows=0 failures=0)
+2026-05-06 05:10:21,797 | INFO | 1926 | Pontiac | Model 6-26 -> 0 rows
+2026-05-06 05:10:22,307 | INFO | Make complete: 1926 / Pontiac (combos=675 rows=0 failures=0)
+2026-05-06 05:10:23,098 | INFO | 1926 | Willys | Whippet Model 96 -> 0 rows
+2026-05-06 05:10:23,606 | INFO | Make complete: 1926 / Willys (combos=676 rows=0 failures=0)
+2026-05-06 05:10:24,540 | INFO | 1925 | Chevrolet | Superior -> 0 rows
+2026-05-06 05:10:25,534 | INFO | 1925 | Chevrolet | Superior Truck -> 0 rows
+2026-05-06 05:10:26,038 | INFO | Make complete: 1925 / Chevrolet (combos=678 rows=0 failures=0)
+2026-05-06 05:10:26,733 | INFO | 1925 | Ford | Model T -> 0 rows
+2026-05-06 05:10:27,244 | INFO | Make complete: 1925 / Ford (combos=679 rows=0 failures=0)
+2026-05-06 05:10:28,688 | INFO | 1924 | Chevrolet | Superior -> 0 rows
+2026-05-06 05:10:29,697 | INFO | 1924 | Chevrolet | Superior Truck -> 0 rows
+2026-05-06 05:10:30,206 | INFO | Make complete: 1924 / Chevrolet (combos=681 rows=0 failures=0)
+2026-05-06 05:10:30,907 | INFO | 1924 | Ford | Model T -> 0 rows
+2026-05-06 05:10:31,418 | INFO | Make complete: 1924 / Ford (combos=682 rows=0 failures=0)
+2026-05-06 05:10:32,509 | INFO | 1923 | Chevrolet | Superior -> 0 rows
+2026-05-06 05:10:33,010 | INFO | Make complete: 1923 / Chevrolet (combos=683 rows=0 failures=0)
+2026-05-06 05:10:33,810 | INFO | 1923 | Ford | Model T -> 0 rows
+2026-05-06 05:10:34,315 | INFO | Make complete: 1923 / Ford (combos=684 rows=0 failures=0)
+2026-05-06 05:10:35,345 | INFO | 1922 | Ford | Model T -> 0 rows
+2026-05-06 05:10:35,860 | INFO | Make complete: 1922 / Ford (combos=685 rows=0 failures=0)
+2026-05-06 05:10:36,935 | INFO | 1921 | Ford | Model T -> 0 rows
+2026-05-06 05:10:37,447 | INFO | Make complete: 1921 / Ford (combos=686 rows=0 failures=0)
+2026-05-06 05:10:38,730 | INFO | 1920 | Ford | Model T -> 0 rows
+2026-05-06 05:10:39,238 | INFO | Make complete: 1920 / Ford (combos=687 rows=0 failures=0)
+2026-05-06 05:10:40,889 | INFO | 1919 | Ford | Model T -> 0 rows
+2026-05-06 05:10:41,400 | INFO | Make complete: 1919 / Ford (combos=688 rows=0 failures=0)
+2026-05-06 05:10:42,407 | INFO | 1918 | Ford | Model T -> 0 rows
+2026-05-06 05:10:42,915 | INFO | Make complete: 1918 / Ford (combos=689 rows=0 failures=0)
+2026-05-06 05:10:43,977 | INFO | 1917 | Ford | Model T -> 0 rows
+2026-05-06 05:10:44,485 | INFO | Make complete: 1917 / Ford (combos=690 rows=0 failures=0)
+
+============================================================
+FULL CALIPER SCRAPE — SUMMARY
+============================================================
+Combinations queried : 690
+Rows extracted       : 0
+Duration             : 0:15:28
+Failures             : 0
+2026-05-06 05:10:44,524 | INFO | 
+============================================================
+FULL CALIPER SCRAPE — SUMMARY
+============================================================
+Combinations queried : 690
+Rows extracted       : 0
+Duration             : 0:15:28
+Failures             : 0
